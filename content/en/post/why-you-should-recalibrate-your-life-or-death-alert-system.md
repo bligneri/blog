@@ -2,7 +2,7 @@
 date = 2023-06-01T05:09:33Z
 description = ""
 draft = true
-image = "https://radicaloptimist.org/content/images/max/800/1-dgqvh_lf3jx2nkpvmgouqw.png"
+image = "/images/max/800/1-dgqvh_lf3jx2nkpvmgouqw.png"
 slug = "why-you-should-recalibrate-your-life-or-death-alert-system"
 summary = "In a postmodern world, fight-or-flight response is causing you more harm than good!"
 tags = ["Psychology", "How-to", "Optimist"]

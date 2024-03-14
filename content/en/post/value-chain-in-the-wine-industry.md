@@ -2,7 +2,7 @@
 date = 2016-08-16T19:38:12Z
 description = ""
 draft = false
-image = "https://radicaloptimist.org/content/images/max/2560/1-nyws_ybjb9cvacimzxaesw.png"
+image = "/images/max/2560/1-nyws_ybjb9cvacimzxaesw.png"
 slug = "value-chain-in-the-wine-industry"
 summary = "Wine is a complicated industry with a large and complex value chain and many partners, such as winemakers, agents, wholesalers…"
 tags = ["Value Chain", "Wine", "DTC"]
@@ -19,7 +19,7 @@ Let’s consider a bottle priced at $24 in a retail bottle-shop. Of course, this
 
 #### The four main channels for wine sales:
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/1-f2ihoaialnoxlyfhwi3xwg.jpg" >
+<IMG src="/images/max/800/1-f2ihoaialnoxlyfhwi3xwg.jpg" >
 
 1. Restaurants: In most countries, wine bought in a restaurant is clearly more expensive. Depending on the country, the price point can vary between twice (lucky you!) and five times the retail price.
 
@@ -33,7 +33,7 @@ For each sales channel, we have represented the value chain and focused on the p
 
 #### The gory details (money!)
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/1-sqvp7lnas0ayhtvl-qs3rw.png" caption="Value chain of one bottle depending on the sales&nbsp;channel." >
+<IMG src="/images/max/800/1-sqvp7lnas0ayhtvl-qs3rw.png" caption="Value chain of one bottle depending on the sales&nbsp;channel." >
 
 > Benoit. I find your foregoing diagram a little confusing. Why would the green sections be different in any of the examples? Are you confusing % with $?
 

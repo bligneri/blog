@@ -2,7 +2,7 @@
 date = 2023-06-08T22:20:57Z
 description = ""
 draft = false
-image = "https://radicaloptimist.org/content/images/2023/06/74464F3F-72C8-4DC8-BFBD-4E93BE40227E_1_105_c-1.jpeg"
+image = "/images/2023/06/74464F3F-72C8-4DC8-BFBD-4E93BE40227E_1_105_c-1.jpeg"
 slug = "yesterday-i-was-fired"
 tags = ["Happiness", "Work", "Essay"]
 title = "Yesterday I was fired 🔥"
@@ -18,7 +18,7 @@ Ultimately, the reasons do not matter much and will not be exposed here.
 
 I realized today that quitting your job (without another one planned) or being fired is a 1-to-0 transition. In physics, this is called a `non-linear` transition. It describes rapidly evolving phenomena like phase transitions and the exponential growth of tiny lifeforms. We don't practice (mentally) this 0-to-1 transition! It is, in fact, the exact opposite of a prevalent mental model of the product & business world. Pether Thiel popularized the 0-to-1 mental model in a well-known [book of the same name](https://en.wikipedia.org/wiki/Zero_to_One).
 
-<IMG src="https://radicaloptimist.org/content/images/2023/06/74464F3F-72C8-4DC8-BFBD-4E93BE40227E_1_105_c.jpeg" caption="A 1 to 0 transition" >
+<IMG src="/images/2023/06/74464F3F-72C8-4DC8-BFBD-4E93BE40227E_1_105_c.jpeg" caption="A 1 to 0 transition" >
 
 It is incredibly challenging because I consider myself a 0-to-1 person: entrepreneur, start-up, team builder, product builder, and team builder. Let's see what a 1-to-0 transition looks like:
 
@@ -34,7 +34,7 @@ When you lose your job, you realize we are all addicted to our job. Like any add
 
 Most of these feelings are tangled together and will be hard to separate. Having a mental model to identify them will help process this information.
 
-<IMG src="https://radicaloptimist.org/content/images/2023/06/CF37B8BD-25C6-4070-8CD0-2E8FA39F1B3B_1_102.jpeg" caption="How tangled are the job withdrawal symptoms" >
+<IMG src="/images/2023/06/CF37B8BD-25C6-4070-8CD0-2E8FA39F1B3B_1_102.jpeg" caption="How tangled are the job withdrawal symptoms" >
 
 ## How do I feel about these symptoms?
 

@@ -2,7 +2,7 @@
 date = 2019-12-26T06:01:01Z
 description = ""
 draft = false
-image = "https://radicaloptimist.org/content/images/max/800/1-lmxgumd0phybvfjazbkukw.jpg"
+image = "/images/max/800/1-lmxgumd0phybvfjazbkukw.jpg"
 slug = "one-ring-to-stitch-them-all-and-in-the-land-of-api-bind-them"
 summary = "One Ring to Stitch Them All and in the Land of API Bind Them. GraphQL schema stitching for platform or API PM"
 tags = ["Essay", "GraphQL", "API"]
@@ -21,7 +21,7 @@ I had lots of experience designing and integrating with REST API and always had 
 
 #### Example REST APIs working “together”
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/1-iifnkw3i1ayvivqzmp-lfg-2x.jpg" caption="Example in REST: multiple queries to get a simple&nbsp;answer" >
+<IMG src="/images/max/800/1-iifnkw3i1ayvivqzmp-lfg-2x.jpg" caption="Example in REST: multiple queries to get a simple&nbsp;answer" >
 
 #### Irreversible decision
 
@@ -61,7 +61,7 @@ As a platform grows in scale and capabilities, REST becomes incredibly costly an
 
 GraphQL example
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/1-umgp3teudc8gage7ki2arg-2x.jpg" >
+<IMG src="/images/max/800/1-umgp3teudc8gage7ki2arg-2x.jpg" >
 
 Schema for multiple the same query as the REST example above : more elegant, less bandwidth used and … easier to understand!
 

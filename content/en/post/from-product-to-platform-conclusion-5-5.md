@@ -2,7 +2,7 @@
 date = 2019-12-08T22:01:02Z
 description = ""
 draft = false
-image = "https://radicaloptimist.org/content/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg"
+image = "/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg"
 slug = "from-product-to-platform-conclusion-5-5"
 summary = "From product to platform: A PM journey"
 tags = ["Product Manager", "Platform"]
@@ -27,7 +27,7 @@ In this blog, I will use PM as an acronym for a regular PM role and PPM for a â€
 
 The platform & partners form an ecosystem centered around value creation for the platform users. [By definition](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0), on aggregate, the platform derives less value than the partners.
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/0-egfha4lvnfygolgp.jpg" caption="Value creation represented as compounded interest for a user with three different apps." >
+<IMG src="/images/max/800/0-egfha4lvnfygolgp.jpg" caption="Value creation represented as compounded interest for a user with three different apps." >
 
 App and platform functionalities create incremental value and this effect compound with time.
 
@@ -41,7 +41,7 @@ Partners form a community that requires caring and frequent interactions with th
 
 For developers, the main interactions between partners and the platform happen via an API that has to be managed by the platform, including legal, financial, GDPR and other regulations.
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/1-jvcghjyvj6zk2pxswkpxrg.jpg" caption="Iterative evolution happens all the time and is used to evolve the boundaries between core platform functionality and partners&nbsp;slowly." >
+<IMG src="/images/max/800/1-jvcghjyvj6zk2pxswkpxrg.jpg" caption="Iterative evolution happens all the time and is used to evolve the boundaries between core platform functionality and partners&nbsp;slowly." >
 
 Most of the time, the value distribution between the partner and the platform community changes gently with time. Each new API release allows partners to unlock incremental value for their users.
 
@@ -49,7 +49,7 @@ Most of the time, the value distribution between the partner and the platform co
 
 However, sometimes, a tectonic shift occurs. These shifts happen when some functionality previously offered exclusively by partners is integrated into the platform.
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/1-62vwiweyookbvkbttc59lq.jpg" caption="Platform tectonic shifts prevent some previous partners from extracting any future value from the platform ecosystem. Earlier partner+platform teams are split apart and will now compete directly for market share and value creation." >
+<IMG src="/images/max/800/1-62vwiweyookbvkbttc59lq.jpg" caption="Platform tectonic shifts prevent some previous partners from extracting any future value from the platform ecosystem. Earlier partner+platform teams are split apart and will now compete directly for market share and value creation." >
 
 These tectonic shifts are rare and caused by wrong strategic decisions by the platform over a few years or by a critical business or financial change. Because these shifts cause a loss of trust in the partner ecosystem, platforms tend to avoid them as much as possible.
 

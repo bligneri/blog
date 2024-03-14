@@ -3,7 +3,7 @@ categories = ["medium", "Import 2023-06-01 01:13", "Optimism"]
 date = 2019-03-23T22:57:33Z
 description = ""
 draft = false
-image = "https://radicaloptimist.org/content/images/max/800/1-jwhwlklfdjsbqoy3nwsn2a.jpg"
+image = "/images/max/800/1-jwhwlklfdjsbqoy3nwsn2a.jpg"
 slug = "being-optimistic-is-a-choice"
 summary = "Personal challenge: make a conscient effort to look at a negative situation and find a positive outcome…\n\nOptimism in practice"
 tags = ["Psychology", "Optimism", "How-to"]
@@ -25,7 +25,7 @@ Being optimistic is a choice. An optimist in action looks for a reframing of any
 
 As stated by [@theStoicEmperor](https://twitter.com/TheStoicEmperor):
 
-<IMG src="https://radicaloptimist.org/content/images/2023/06/CleanShot-2023-06-03-at-09.50.39@2x.png" >
+<IMG src="/images/2023/06/CleanShot-2023-06-03-at-09.50.39@2x.png" >
 
 Personal challenge and key takeaway: **Today**, please try to look at at least a negative situation and look for a **positive outcome**.
 

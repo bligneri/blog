@@ -2,7 +2,7 @@
 date = 2023-06-16T23:12:04Z
 description = ""
 draft = false
-image = "https://radicaloptimist.org/content/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
+image = "/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
 slug = "happiness-a-dance-of-openness-and-closure"
 summary = "Navigating the Rhythms of the Mind"
 tags = ["Happiness", "Optimist", "Psychology"]
@@ -43,7 +43,7 @@ When our mind is closed, it manifests as fear, anger, stress, indecision, cravin
 
 Our open & closed states relate to Maslow's pyramid of needs. While our fight or flight reflex is indispensable to ensure our physiological and physical safety, it is hurting our ability to develop our self-esteem and self-actualization.
 
-<IMG src="https://radicaloptimist.org/content/images/max/800/1-rj0b8tax5-d9ugjymwpiaq-2x.jpg" caption="Schema of Maslow's needs with the open and closed experiences." >
+<IMG src="/images/max/800/1-rj0b8tax5-d9ugjymwpiaq-2x.jpg" caption="Schema of Maslow's needs with the open and closed experiences." >
 
 ### Good news: open and closed states do not last!
 
