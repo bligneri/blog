@@ -2,3 +2,5 @@ public
 public/*
 .DS_store
 *.swp
+*.lock
+resources/_gen/*
