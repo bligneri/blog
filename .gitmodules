@@ -1,0 +1,6 @@
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = git@github.com:jbub/ghostwriter.git
+[submodule "themes/herring-cove"]
+	path = themes/herring-cove
+	url = git@github.com:spf13/herring-cove.git
