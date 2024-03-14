@@ -5,7 +5,7 @@ draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-hpa-nvezyxg8rxb21itqbw-2x.jpg"
 slug = "how-to-organize-a-great-team-retrospective"
 summary = "Retrospective help teams realize their impact and grow."
-tags = ["How-to", Product"]
+tags = ["How-to", "Product"]
 title = "How to Organize a Great Team Retrospective"
 
 +++
