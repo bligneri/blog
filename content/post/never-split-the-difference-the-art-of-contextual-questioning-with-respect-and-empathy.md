@@ -3,7 +3,7 @@ categories = ["medium", "Import 2023-06-01 01:13", "Books", "auto-feature-image"
 date = 2019-04-19T16:54:26Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/max/800/1-rxrjvzbh7hjw4ppoqzti6g.png"
+image = "https://radicaloptimist.org/content/images/max/800/1-rxrjvzbh7hjw4ppoqzti6g.png"
 slug = "never-split-the-difference-the-art-of-contextual-questioning-with-respect-and-empathy"
 summary = "A great book to become a better human being"
 tags = ["medium", "Import 2023-06-01 01:13", "Books", "auto-feature-image"]
@@ -12,7 +12,7 @@ title = "📖 Never Split The Difference: the art of contextual questioning with
 +++
 
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-5a8sbvecxuhqdkp3hicfjq.jpg" caption="Never Split the difference by <a href="https://twitter.com/VossNegotiation" data-href="https://twitter.com/VossNegotiation" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Chris Voss</a> &amp; <a href="https://twitter.com/tahlraz" data-href="https://twitter.com/tahlraz" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Tahl Raz</a> (book&nbsp;cover)" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-5a8sbvecxuhqdkp3hicfjq.jpg" caption="Never Split the difference by <a href="https://twitter.com/VossNegotiation" data-href="https://twitter.com/VossNegotiation" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Chris Voss</a> &amp; <a href="https://twitter.com/tahlraz" data-href="https://twitter.com/tahlraz" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Tahl Raz</a> (book&nbsp;cover)" >
 
 It can seems ironical or even sarcastic to review such a book on a blog about optimism and product management. This is not the case: everyone can become a better human being with this book.
 
@@ -38,7 +38,7 @@ I also loved the fact that the book expand the best alternative to a negotiated 
 
 This technique is not in the book but I always imagine more than three scenarios:
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-zu5u0zzxlrzfad2ott8eya.jpg" caption="You alphabet scenario&nbsp;… (image by&nbsp;<a href="https://burst.shopify.com/" data-href="https://burst.shopify.com/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>)" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-zu5u0zzxlrzfad2ott8eya.jpg" caption="You alphabet scenario&nbsp;… (image by&nbsp;<a href="https://burst.shopify.com/" data-href="https://burst.shopify.com/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>)" >
 
 * **A**: The ideal scenario (very ego flattering)
 * **B**: depend on the situation

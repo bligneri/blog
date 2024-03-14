@@ -3,7 +3,7 @@ categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-11-05T08:48:15Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/max/800/1-skzurqzxgsvgsuafktcofq.png"
+image = "https://radicaloptimist.org/content/images/max/800/1-skzurqzxgsvgsuafktcofq.png"
 slug = "pyramid-of-product-manager-needs-popman-impact-outcome-and-output"
 summary = "In my last article, I described the pyramid of product manager need. In this follow up blog post, we will have a look at the pyramid from…"
 tags = ["medium", "Import 2023-06-01 01:13"]
@@ -24,7 +24,7 @@ Based on these definitions, we can now map these with the pyramid of the product
 
 As we can see, each level of the pyramid has a unique relationship with the notions defined above.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-wsobvrkyrbbzcx4ofu4mwa-2x.jpg" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-wsobvrkyrbbzcx4ofu4mwa-2x.jpg" >
 
 Influence is the main tool used by a product manager. You can use the table presented above each time your receive or solicit feedback. Make sure you address the key questions of your counterpart by refering to the activities or artifacts that make sense for this person. Failing to do so will create a dialogue of deafs.
 

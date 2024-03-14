@@ -3,7 +3,7 @@ categories = ["medium", "auto-feature-image", "Import 2023-06-01 01:13", "How-to
 date = 2016-09-14T10:13:00Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/max/800/1-ky4ywolibchmvqphqrh80g.jpg"
+image = "https://radicaloptimist.org/content/images/max/800/1-ky4ywolibchmvqphqrh80g.jpg"
 slug = "why-you-should-update-your-wine-club-policies-now"
 summary = "Reviewing an existing or creating a new wine club is an important operation, but, when you run a real-world winery, it is often not a…"
 tags = ["medium", "auto-feature-image", "Import 2023-06-01 01:13", "How-to"]
@@ -20,7 +20,7 @@ Given the hectic flow of daily activities, chances are you have not reviewed you
 
 I hope this article convinces you that you have put off this task for far too long!
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-cf2hfvfme5ehpcgwpsmoha.jpg" caption="Image credit: <a href="http://emergingtech.tbr.edu/strategic-planning-mobilization" data-href="http://emergingtech.tbr.edu/strategic-planning-mobilization" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://emergingtech.tbr.edu/strategic-planning-mobilization</a>" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-cf2hfvfme5ehpcgwpsmoha.jpg" caption="Image credit: <a href="http://emergingtech.tbr.edu/strategic-planning-mobilization" data-href="http://emergingtech.tbr.edu/strategic-planning-mobilization" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://emergingtech.tbr.edu/strategic-planning-mobilization</a>" >
 
 ---
 
@@ -34,7 +34,7 @@ As much as we would all like for our customer relationships to last forever, thi
 
 To deepen your relationship with your most trusted customers, you also need to evolve and adapt. A wine club is essentially a social contract between you and your club members. It can be a 140-character or a thousand-page long.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-zqo09st_funaucy48mz0mq.jpg" caption="Image credit: <a href="http://www.doityourself.com/stry/wine-rack-archery-target" data-href="http://www.doityourself.com/stry/wine-rack-archery-target" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://www.doityourself.com/stry/wine-rack-archery-target</a>" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-zqo09st_funaucy48mz0mq.jpg" caption="Image credit: <a href="http://www.doityourself.com/stry/wine-rack-archery-target" data-href="http://www.doityourself.com/stry/wine-rack-archery-target" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://www.doityourself.com/stry/wine-rack-archery-target</a>" >
 
 What should you aim for in the contract?
 
@@ -62,7 +62,7 @@ People tend to travel a lot these days and for extended periods of time. Having 
 
 ---
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-cshycszyy7wmualjb4k_ra.jpg" caption="Image credit: <a href="http://www.yogawineclub.com/" data-href="http://www.yogawineclub.com/" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://www.yogawineclub.com/</a>" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-cshycszyy7wmualjb4k_ra.jpg" caption="Image credit: <a href="http://www.yogawineclub.com/" data-href="http://www.yogawineclub.com/" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">http://www.yogawineclub.com/</a>" >
 
 ### D — Flexibility
 
@@ -76,7 +76,7 @@ Make your system flexible. If everything is set in stone, your members will need
 
 ### E — Members relationship:
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-5hvj4u5qevpmmdfower-rg.jpg" caption="Image credit&nbsp;: <a href="https://au.pinterest.com/pin/419257046534241323/" data-href="https://au.pinterest.com/pin/419257046534241323/" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">https://au.pinterest.com/pin/419257046534241323/</a>" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-5hvj4u5qevpmmdfower-rg.jpg" caption="Image credit&nbsp;: <a href="https://au.pinterest.com/pin/419257046534241323/" data-href="https://au.pinterest.com/pin/419257046534241323/" class="markup--anchor markup--figure-anchor" rel="nofollow noopener" target="_blank">https://au.pinterest.com/pin/419257046534241323/</a>" >
 
 Do you record their preferences to ensure the delivery of the types of product that they love? For a red wine club, some members want “only Shiraz”, others “No Cab-Merlot”. Don’t ask the same question again and again.
 

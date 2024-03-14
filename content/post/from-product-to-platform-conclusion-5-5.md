@@ -3,7 +3,7 @@ categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-12-08T22:01:02Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg"
+image = "https://radicaloptimist.org/content/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg"
 slug = "from-product-to-platform-conclusion-5-5"
 summary = "From product to platform: A PM journey"
 tags = ["medium", "Import 2023-06-01 01:13"]
@@ -20,7 +20,7 @@ title = "From Product to Platform — Conclusion (5/5)"
 
 ### Introduction
 
-This post is the fifth part in a series of five regarding platforms and the critical differences with products ([part 1](__GHOST_URL__/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0), [part 2](__GHOST_URL__/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d), [part 3](__GHOST_URL__/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c), [part 4](__GHOST_URL__/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)).
+This post is the fifth part in a series of five regarding platforms and the critical differences with products ([part 1](https://radicaloptimist.org/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0), [part 2](https://radicaloptimist.org/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d), [part 3](https://radicaloptimist.org/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c), [part 4](https://radicaloptimist.org/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)).
 
 In this blog, I will use PM as an acronym for a regular PM role and PPM for a “_platform product manager”_ role_._
 
@@ -28,7 +28,7 @@ In this blog, I will use PM as an acronym for a regular PM role and PPM for a �
 
 The platform & partners form an ecosystem centered around value creation for the platform users. [By definition](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0), on aggregate, the platform derives less value than the partners.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/0-egfha4lvnfygolgp.jpg" caption="Value creation represented as compounded interest for a user with three different apps." >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/0-egfha4lvnfygolgp.jpg" caption="Value creation represented as compounded interest for a user with three different apps." >
 
 App and platform functionalities create incremental value and this effect compound with time.
 
@@ -42,7 +42,7 @@ Partners form a community that requires caring and frequent interactions with th
 
 For developers, the main interactions between partners and the platform happen via an API that has to be managed by the platform, including legal, financial, GDPR and other regulations.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-jvcghjyvj6zk2pxswkpxrg.jpg" caption="Iterative evolution happens all the time and is used to evolve the boundaries between core platform functionality and partners&nbsp;slowly." >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-jvcghjyvj6zk2pxswkpxrg.jpg" caption="Iterative evolution happens all the time and is used to evolve the boundaries between core platform functionality and partners&nbsp;slowly." >
 
 Most of the time, the value distribution between the partner and the platform community changes gently with time. Each new API release allows partners to unlock incremental value for their users.
 
@@ -50,7 +50,7 @@ Most of the time, the value distribution between the partner and the platform co
 
 However, sometimes, a tectonic shift occurs. These shifts happen when some functionality previously offered exclusively by partners is integrated into the platform.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-62vwiweyookbvkbttc59lq.jpg" caption="Platform tectonic shifts prevent some previous partners from extracting any future value from the platform ecosystem. Earlier partner+platform teams are split apart and will now compete directly for market share and value creation." >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-62vwiweyookbvkbttc59lq.jpg" caption="Platform tectonic shifts prevent some previous partners from extracting any future value from the platform ecosystem. Earlier partner+platform teams are split apart and will now compete directly for market share and value creation." >
 
 These tectonic shifts are rare and caused by wrong strategic decisions by the platform over a few years or by a critical business or financial change. Because these shifts cause a loss of trust in the partner ecosystem, platforms tend to avoid them as much as possible.
 
@@ -101,7 +101,7 @@ What differences did I miss?
 
 This series has for other articles:
 
-1. [Product to Platform (1/5): the partners](__GHOST_URL__/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0)2. [Platforms complexity (2/5)](__GHOST_URL__/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d)3. [Mental Models (3/5)](__GHOST_URL__/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c)4. [Revolutions (4/5)](__GHOST_URL__/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)
+1. [Product to Platform (1/5): the partners](https://radicaloptimist.org/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0)2. [Platforms complexity (2/5)](https://radicaloptimist.org/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d)3. [Mental Models (3/5)](https://radicaloptimist.org/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c)4. [Revolutions (4/5)](https://radicaloptimist.org/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)
 
 
 

@@ -3,7 +3,7 @@ categories = ["medium", "Import 2023-06-01 01:13", "How-to", "product", "How-to"
 date = 2020-01-18T09:01:01Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/max/800/1-dvbgmvq7zxh-gvvet9jp0g.png"
+image = "https://radicaloptimist.org/content/images/max/800/1-dvbgmvq7zxh-gvvet9jp0g.png"
 slug = "how-to-run-a-why-who-what-how-alignment-session"
 summary = "A simple set of questions to remove ambiguity, build team alignment and prioritize"
 tags = ["medium", "Import 2023-06-01 01:13", "How-to", "product", "How-to"]
@@ -18,7 +18,7 @@ This method is directly inspired by [Simon Sinek](https://medium.com/u/b56b107b6
 
 > “People don’t buy what you do, they buy why you do it.”- Simon Sinek
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-36ga9cq081fsybctgkenga-2x.jpg" caption="Simon Sinek golden circle principle — Illustration by the&nbsp;author" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-36ga9cq081fsybctgkenga-2x.jpg" caption="Simon Sinek golden circle principle — Illustration by the&nbsp;author" >
 
 ### Method description
 
@@ -40,7 +40,7 @@ If you already had a session or have lots of great answers for some of the quest
 
 Resist the temptation to go fast! Remember that the primary goal of this activity is team alignment. Team alignment is never built by taking shortcuts, avoiding discussions or limiting interactions. Use this time to repeat the key messages, test their validity and make sure everyone understands them and is completely aligned.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-0bggqzhokyn7rge3amqvha.png" caption="The four questions ordered and their position regarding four quadrants — Illustration by the&nbsp;author" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-0bggqzhokyn7rge3amqvha.png" caption="The four questions ordered and their position regarding four quadrants — Illustration by the&nbsp;author" >
 
 This process is iterative: you may need more than one session to get to the bottom of all the questions. Each session builds on the precedent. Between sessions, the team will have time to think about the findings, gather data, validate the various hypothesis.
 
@@ -72,7 +72,7 @@ Less is more for your why: aim for a single sentence. Two at most.
 
 A beneficial method to help answer this question is the [five-whys framework](https://en.wikipedia.org/wiki/5_Whys). Ideally, you want to spend time in the world of [first-principles](https://en.wikipedia.org/wiki/First_principle). If you are more familiar or want to use any root-cause analysis framework, go for it!
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-pmf5x7m3ckxvfdh4gf-r8w-2x.jpg" caption="5-Whys example — illustration by the&nbsp;author" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-pmf5x7m3ckxvfdh4gf-r8w-2x.jpg" caption="5-Whys example — illustration by the&nbsp;author" >
 
 #### Ethical and legal
 
@@ -130,7 +130,7 @@ The output of this question can take the form of a table with the main items tha
 
 If possible, a graphical representation (schema) is great. It can be build after the meeting. A visual representation will reinforce the mental model of what you want to build. It is way easier to share than words.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-bmjqvxsc8a_2f8r0up7o9q.png" caption="Visual representation of what to build — Illustration by the&nbsp;author" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-bmjqvxsc8a_2f8r0up7o9q.png" caption="Visual representation of what to build — Illustration by the&nbsp;author" >
 
 ### How? are we going to build it
 
@@ -151,7 +151,7 @@ To help the team agree on what to do next and to decide the importance of variou
 
 The output of this section is a shared vision of the roll-out plan on the time horizon that makes sense for this product. For instance, the output could look like this one:
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-eftgqbe8y2tlzsbpgfduaw-2x.jpg" caption="Example of Now, Next, Later view — Illustration by the&nbsp;author" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-eftgqbe8y2tlzsbpgfduaw-2x.jpg" caption="Example of Now, Next, Later view — Illustration by the&nbsp;author" >
 
 Do not push for a rapid conclusion of the prioritization effort. Disagreements at this stage could be hiding a more profound difference on the foundational Why?, Who? and What? questions. Reopen the discussion and go back to these critical discussions until you reach a more robust agreement.
 

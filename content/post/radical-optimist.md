@@ -3,7 +3,7 @@ categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-04-11T23:24:37Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/max/800/1-npvpfjnbsxpsmojpne00wa.jpg"
+image = "https://radicaloptimist.org/content/images/max/800/1-npvpfjnbsxpsmojpne00wa.jpg"
 slug = "radical-optimist"
 summary = "Why being optimistic?\n\nWe have to visualize, dream and tell positive stories about the world we want to build. This requires a healthy dose of radical optimism."
 tags = ["medium", "Import 2023-06-01 01:13"]
@@ -26,7 +26,7 @@ On the contrary, stories with positive outcome and feelings are often labeled ch
 
 > Note: I do not endorse the “girly” term. However, this is a visible consequence of our society genderism. Positive takeaway: It reflects the heightened sensibility of women and also their capability to dream of a better future.
 
-{{< figure src="__GHOST_URL__/content/images/max/1200/1-ocy280rxjett-iyfsw4r4q.png" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/1200/1-ocy280rxjett-iyfsw4r4q.png" >
 
 ### Why radical ?
 
@@ -55,7 +55,7 @@ We need optimism to bring back balance.
 
 > Only **radical optimism** can bring back some equilibrium in our world views.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-sjuc9i7otsefcfqb87jvra.jpg" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-sjuc9i7otsefcfqb87jvra.jpg" >
 
 We need goals, both as individuals and as the earth’s society. Those goals are not hard to find:
 

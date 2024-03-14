@@ -3,7 +3,7 @@ categories = ["medium", "Import 2023-06-01 01:13", "How-to", "product"]
 date = 2019-12-07T14:06:34Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/max/800/1-hpa-nvezyxg8rxb21itqbw-2x.jpg"
+image = "https://radicaloptimist.org/content/images/max/800/1-hpa-nvezyxg8rxb21itqbw-2x.jpg"
 slug = "how-to-organize-a-great-team-retrospective"
 summary = "Retrospective help teams realize their impact and grow."
 tags = ["medium", "Import 2023-06-01 01:13", "How-to", "product"]
@@ -42,7 +42,7 @@ For long projects, prepare a timeline of the main events, including team member 
 
 Block the required amount of time based on the project size and complexity. You should plan at least 20 minutes/question, up to 30 minutes. Err toward 30 minutes, especially for a large team project.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-pvtseiadez7qj4uz9d5y_w.jpg" caption="Photo by <a href="https://burst.shopify.com/@matthew_henry?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" data-href="https://burst.shopify.com/@matthew_henry?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Matthew Henry</a> from&nbsp;<a href="https://burst.shopify.com/college?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" data-href="https://burst.shopify.com/college?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-pvtseiadez7qj4uz9d5y_w.jpg" caption="Photo by <a href="https://burst.shopify.com/@matthew_henry?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" data-href="https://burst.shopify.com/@matthew_henry?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Matthew Henry</a> from&nbsp;<a href="https://burst.shopify.com/college?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" data-href="https://burst.shopify.com/college?utm_campaign=photo_credit&amp;utm_content=Browse+Free+HD+Images+of+Team+Meeting+Full+Of+Happy+Young+Adults&amp;utm_medium=referral&amp;utm_source=credit" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>" >
 
 ### Here are some traditional questions:
 
@@ -101,7 +101,7 @@ Make sure all the participants receive an overview of the activity. The moderato
 
 Of course, if the agreed-upon actions remain post-it notes on a physical or virtual board, the retrospective will not impact your team's growth. Like any issue on the board, some team members must take ownership and change processes, rituals, and tools. The team has to be comfortable to unlearn certain things and learn new things.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-svomgzeh2vzpx9d_hi1waw-2x.jpg" caption="Retrospectives are the fuel for your team growth&nbsp;engine." >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-svomgzeh2vzpx9d_hi1waw-2x.jpg" caption="Retrospectives are the fuel for your team growth&nbsp;engine." >
 
 In a way, the retrospective is only the beginning of a transformative process for the team. Do not confuse the retrospective with the team transformation.
 

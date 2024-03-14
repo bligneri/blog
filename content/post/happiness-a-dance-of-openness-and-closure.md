@@ -3,7 +3,7 @@ categories = ["medium", "Happiness", "auto-feature-image"]
 date = 2023-06-16T23:12:04Z
 description = ""
 draft = false
-image = "__GHOST_URL__/content/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
+image = "https://radicaloptimist.org/content/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
 slug = "happiness-a-dance-of-openness-and-closure"
 summary = "Navigating the Rhythms of the Mind"
 tags = ["medium", "Happiness", "auto-feature-image"]
@@ -14,7 +14,7 @@ title = "Happiness: a Dance of Openness and Closure"
 
 ### Navigating the Rhythms of the Mind
 
-{{< figure src="__GHOST_URL__/content/images/2023/06/image.png" caption="Photo by <a href="https://unsplash.com/@healing_photographer?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener">Aarón Blanco Tejedor</a> on <a href="https://unsplash.com/s/photos/stress?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener">Unsplash</a>" >}}
+<IMG src="https://radicaloptimist.org/content/images/2023/06/image.png" caption="Photo by <a href="https://unsplash.com/@healing_photographer?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener">Aarón Blanco Tejedor</a> on <a href="https://unsplash.com/s/photos/stress?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener">Unsplash</a>" >
 
 Our mind operates with two main paradigms. Open or closed.
 
@@ -26,7 +26,7 @@ A multitude of terms and expressions exists to designate open experiences. They 
 
 > When our mind is open, we associate these states with feelings like happiness, curiosity, effortless, control, empathy, relatedness, togetherness. These feelings lead to growth, wisdom, joy and happiness. There is no self in these feelings, simply a wide-open sensation welcoming and joyful.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-sgsc_gbxtpo3mfgldzsw0q-2x.jpg" caption="Typical Open vs Closed feelings - (c) RadicalOptimist.org 2022" >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-sgsc_gbxtpo3mfgldzsw0q-2x.jpg" caption="Typical Open vs Closed feelings - (c) RadicalOptimist.org 2022" >
 
 ---
 
@@ -44,7 +44,7 @@ When our mind is closed, it manifests as fear, anger, stress, indecision, cravin
 
 Our open & closed states relate to Maslow's pyramid of needs. While our fight or flight reflex is indispensable to ensure our physiological and physical safety, it is hurting our ability to develop our self-esteem and self-actualization.
 
-{{< figure src="__GHOST_URL__/content/images/max/800/1-rj0b8tax5-d9ugjymwpiaq-2x.jpg" caption="Schema of Maslow's needs with the open and closed experiences." >}}
+<IMG src="https://radicaloptimist.org/content/images/max/800/1-rj0b8tax5-d9ugjymwpiaq-2x.jpg" caption="Schema of Maslow's needs with the open and closed experiences." >
 
 ### Good news: open and closed states do not last!
 
