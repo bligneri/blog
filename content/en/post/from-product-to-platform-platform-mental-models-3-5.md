@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-11-28T15:01:01Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-dqhi0lynno_d7gd6ipvyrw.jpg"
 slug = "from-product-to-platform-platform-mental-models-3-5"
 summary = "The journey of a Product manager: from product to platform.\n\nUseful mental models to better understand platforms: Superset of knowledge, Ecosystem, Infinite Game, Compounded interest"
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Product Manager", "Platform"]
 title = "From Product to Platform — Platform Mental Models (3/5)"
 
 +++

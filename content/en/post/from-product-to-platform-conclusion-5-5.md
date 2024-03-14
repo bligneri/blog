@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-12-08T22:01:02Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg"
 slug = "from-product-to-platform-conclusion-5-5"
 summary = "From product to platform: A PM journey"
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Product Manager", "Platform"]
 title = "From Product to Platform — Conclusion (5/5)"
 
 +++

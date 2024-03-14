@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2020-01-09T19:01:01Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-x7smeithmrcevhe0etifag-2x.jpg"
 slug = "i-am-not-a-writer-not-even-a-native-english-speaker"
 summary = "How I published 16 articles in 2019 and enjoyed the experience."
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Essay"]
 title = "I Am Not a Writer — Not Even a Native English Speaker"
 
 +++

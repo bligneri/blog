@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13", "Books", "auto-feature-image"]
 date = 2019-04-19T16:54:26Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-rxrjvzbh7hjw4ppoqzti6g.png"
 slug = "never-split-the-difference-the-art-of-contextual-questioning-with-respect-and-empathy"
 summary = "A great book to become a better human being"
-tags = ["medium", "Import 2023-06-01 01:13", "Books", "auto-feature-image"]
+tags = ["Book", "Negotiation", "Soft skill"]
 title = "📖 Never Split The Difference: the art of contextual questioning with respect and empathy."
 
 +++

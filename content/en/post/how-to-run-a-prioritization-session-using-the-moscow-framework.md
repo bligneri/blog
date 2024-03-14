@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13", "How-to", "product", "How-to"]
 date = 2019-12-19T09:01:02Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-ihb2ej7tl-j0itdjdjn7la-2x.jpg"
 slug = "how-to-run-a-prioritization-session-using-the-moscow-framework"
 summary = "10x ruthless prioritization\n\nA prioritization method to rapidly build consensus on the scope and share with your team and any stakeholder."
-tags = ["medium", "Import 2023-06-01 01:13", "How-to", "product", "How-to"]
+tags = ["How-to", "Product Manager", "Prioritization"]
 title = "How to Run a Prioritization Session Using the MoSCoW Framework"
 
 +++

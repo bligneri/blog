@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2020-01-17T10:10:01Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-pudyupwucaq1i5pcjeexlg-2x.jpg"
 slug = "the-abuse-of-tech-debt"
 summary = "There is nothing unique about tech debt: just change. A tech debt classification and initial root-cause analysis."
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Essay", "Tech debt"]
 title = "The Abuse of Tech Debt"
 
 +++

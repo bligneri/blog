@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "auto-feature-image", "Import 2023-06-01 01:13"]
 date = 2016-01-26T07:12:40Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-uebqnmtu8a0_dsq_o5b8kw.png"
 slug = "what-direct-to-consumer-dtc-represents-for-genuine-wine-makers"
 summary = "Direct To Consumer (DTC) is a major trend worldwide."
-tags = ["medium", "auto-feature-image", "Import 2023-06-01 01:13"]
+tags = ["DTC", "Wine"]
 title = "What Direct To Consumer represents for genuine wine makers"
 
 +++

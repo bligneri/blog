@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13", "How-to", "product", "How-to"]
 date = 2020-01-18T09:01:01Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-dvbgmvq7zxh-gvvet9jp0g.png"
 slug = "how-to-run-a-why-who-what-how-alignment-session"
 summary = "A simple set of questions to remove ambiguity, build team alignment and prioritize"
-tags = ["medium", "Import 2023-06-01 01:13", "How-to", "product", "How-to"]
+tags = ["How-to", "Product Manager", "Alignment"]
 title = "How to Run a Why, Who, What, How Alignment Session"
 
 +++

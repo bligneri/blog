@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13", "How-to"]
 date = 2019-12-27T05:53:53Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-wly7ecrymrcz1xn_y3gqiw.jpg"
 slug = "how-reframing-negative-experiences-can-make-you-happier"
 summary = "A guide for learning from tough situations rather than simply ruminating on them"
-tags = ["medium", "Import 2023-06-01 01:13", "How-to"]
+tags = ["Psychology", "How-to", "Optimist"]
 title = "How Reframing Negative Experiences Can Make You Happier"
 
 +++

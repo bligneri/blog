@@ -1,14 +1,12 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-11-23T04:01:03Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-a1yyxncgq03-npu9jqczjg.jpg"
 slug = "from-product-manager-to-platform-manager-the-partners-impact-1-5"
 summary = "Platform Managers listen to the voice of the developer.\n\nWhat is platform, the platform manager role, the partner’s impact"
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Product Manager", "Plaform"]
 title = "From Product Manager to Platform Manager — the Partners’ Impact(1/5)"
-
 +++
 
 

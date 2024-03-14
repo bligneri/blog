@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2023-06-01T05:09:33Z
 description = ""
 draft = true
 image = "https://radicaloptimist.org/content/images/max/800/1-j93onediiczxr0m_ndpnrg.jpg"
 slug = "product-people-priority-process"
 summary = "A powerful framework to deliver great products"
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Product Management", "Prioritization", "People", "Process", "Agility" ]
 title = "Product = People + Priority + Process"
 
 +++

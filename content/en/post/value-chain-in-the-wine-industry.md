@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "auto-feature-image", "Import 2023-06-01 01:13"]
 date = 2016-08-16T19:38:12Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/2560/1-nyws_ybjb9cvacimzxaesw.png"
 slug = "value-chain-in-the-wine-industry"
 summary = "Wine is a complicated industry with a large and complex value chain and many partners, such as winemakers, agents, wholesalers…"
-tags = ["medium", "auto-feature-image", "Import 2023-06-01 01:13"]
+tags = ["Value Chain", "Wine", "DTC"]
 title = "Value chain in the wine Industry"
 
 +++

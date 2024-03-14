@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-11-25T15:01:01Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-s9paqi7p7-qwolgbb2ylna.jpg"
 slug = "from-product-to-platform-increased-complexity-2-5"
 summary = "Journey of a Product manager, from product to platform: complexity!\n\nPlatforms are more complex than products. This post highlight the specific domains where platforms are more complex than products."
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Product Manager", "Platform"]
 title = "From Product to Platform — Increased Complexity (2/5)"
 
 +++

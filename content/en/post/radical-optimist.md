@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-04-11T23:24:37Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-npvpfjnbsxpsmojpne00wa.jpg"
 slug = "radical-optimist"
 summary = "Why being optimistic?\n\nWe have to visualize, dream and tell positive stories about the world we want to build. This requires a healthy dose of radical optimism."
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Essay", "Optimist"]
 title = "Radical + Optimist"
 
 +++

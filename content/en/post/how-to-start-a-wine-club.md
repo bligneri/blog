@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "auto-feature-image", "Import 2023-06-01 01:13", "How-to"]
 date = 2016-03-22T19:20:22Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-nkydczpehbyjukty7ka5ua.png"
 slug = "how-to-start-a-wine-club"
 summary = "How to start a wine club"
-tags = ["medium", "auto-feature-image", "Import 2023-06-01 01:13", "How-to"]
+tags = ["How-to", "DTC", "Wine"]
 title = "How to start a wine club"
 
 +++

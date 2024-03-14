@@ -1,11 +1,10 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
 date = 2019-12-11T07:27:38Z
 description = ""
 draft = false
 slug = "why-should-you-operate-more-than-one-wine-club"
 summary = "Wine clubs are part of the Direct to Consumer (DtC) trend. They allow the winemaker to send large amounts of wine to a selected group of…"
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Wine", "DTC", "Wine Club"]
 title = "Why should you operate more than one wine club?"
 
 +++

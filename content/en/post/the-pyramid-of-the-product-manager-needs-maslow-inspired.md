@@ -1,12 +1,10 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13"]
-date = 2019-05-18T07:49:34Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-oyzx1bhe1jzu3vglrbo4nq.png"
 slug = "the-pyramid-of-the-product-manager-needs-maslow-inspired"
 summary = "A useful and visual mental model that represent the product management role in relation to its environment."
-tags = ["medium", "Import 2023-06-01 01:13"]
+tags = ["Product Manager", "Leadership", "Essay", "Mental Model"]
 title = "The pyramid of the product manager needs (Maslow inspired)"
 
 +++

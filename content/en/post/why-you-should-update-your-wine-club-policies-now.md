@@ -1,12 +1,11 @@
 +++
-categories = ["medium", "auto-feature-image", "Import 2023-06-01 01:13", "How-to"]
 date = 2016-09-14T10:13:00Z
 description = ""
 draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-ky4ywolibchmvqphqrh80g.jpg"
 slug = "why-you-should-update-your-wine-club-policies-now"
 summary = "Reviewing an existing or creating a new wine club is an important operation, but, when you run a real-world winery, it is often not a…"
-tags = ["medium", "auto-feature-image", "Import 2023-06-01 01:13", "How-to"]
+tags = ["Wine Club", "How-to", "Wine", "DTC"]
 title = "Why you should update your wine club policies now!"
 
 +++

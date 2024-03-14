@@ -6,7 +6,7 @@ draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-pbghdh0mm1iagnhuzzoiqq.jpg"
 slug = "book-review-sense-respond"
 summary = "A great book for knowledge workers. This is a map to help you navigate in our increasingly digital world.\n\nSense and respond, product management, teal organizations, reinventing organizations"
-tags = ["medium", "Import 2023-06-01 01:13", "Books", "auto-feature-image"]
+tags = ["Books", "Agility"]
 title = "📖 Book review: Sense & Respond"
 
 +++

@@ -6,7 +6,7 @@ draft = false
 image = "https://radicaloptimist.org/content/images/max/800/1-jwhwlklfdjsbqoy3nwsn2a.jpg"
 slug = "being-optimistic-is-a-choice"
 summary = "Personal challenge: make a conscient effort to look at a negative situation and find a positive outcome…\n\nOptimism in practice"
-tags = ["medium", "Import 2023-06-01 01:13", "Optimism"]
+tags = ["Psychology", "Optimism", "How-to"]
 title = "Being optimistic is a choice"
 
 +++
