@@ -1,0 +1,23 @@
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  fr:
+    contentDir: content/fr
+    disabled: false
+    languageCode: fr-ca
+    languageDirection: ltr
+    languageName: Francais
+    params:
+      subtitle: Un blog
+    title: RadicalOptimist
+    weight: 2
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-ca
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Blog
+    title: RadicalOptimist
+    weight: 1
