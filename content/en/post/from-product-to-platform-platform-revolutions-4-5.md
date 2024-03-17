@@ -137,18 +137,12 @@ As always, consider the desirability and feasibility and viability of these deci
 * For desirability and usability, consider the user experience. For instance, does it makes sense for a user to install an app and a partner page for this feature? What are users’ expectations for this functionality: do they consider this is a basic one?
 * For feasibility: is it realistic to have external API calls for this function? Will it slow down the application to a crawl? Can this functionality be down because of various network or partner outages? From a data integrity and accuracy point of view, who should own this data?
 
-#### Feedback is a gift
+### Complete series: 
+1. [Platform Product Manager: Partner (1/5)](from-product-manager-to-platform-manager-the-partners-impact-1-5.md)
+1. [Platform Product Manager: Complexity (2/5)](from-product-to-platform-increased-complexity-2-5.md)
+1. [Platform Product Manager: Mental Models (3/5)](from-product-to-platform-platform-mental-models-3-5.md)
+1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
+1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-You can reach me at [Benoit des Ligneris](https://medium.com/u/7be03e6aa8e7?source=post_page-----785f9719544c----------------------).
-
-* Did I miss some evolutionary path for platforms?
-* As a partner, what tool do you use to decide on your strategy?
-* As a platform, what tool do you use to decide on your strategy?
-* Some unanswered questions?
-
-Did you stumble on this blog post by accident? The beginning of this series may interest you:1. [Product to Platform (1/5): the partners](https://radicaloptimist.org/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0)2. [Product to Platform (2/5): the complexity](https://radicaloptimist.org/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d)3. [Product to Platform (3/5): the mental models](https://medium.com/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c)
-
-The next blog post (5/5) concludes this series and summarize some of the critical differences between platform product management (PPM) and regular product management (PM).
-
-5. [Conclusion (5/5)](https://medium.com/swlh/from-product-to-platform-conclusion-5-5-3e000f864c48)
+{{% feedback-en %}}
 

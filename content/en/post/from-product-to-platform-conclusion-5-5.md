@@ -19,13 +19,19 @@ title = "From Product to Platform — Conclusion (5/5)"
 
 ### Introduction
 
-This post is the fifth part in a series of five regarding platforms and the critical differences with products ([part 1](https://radicaloptimist.org/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0), [part 2](https://radicaloptimist.org/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d), [part 3](https://radicaloptimist.org/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c), [part 4](https://radicaloptimist.org/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)).
+### Complete series: 
 
-In this blog, I will use PM as an acronym for a regular PM role and PPM for a “_platform product manager”_ role_._
+This post is the fifth part in a series of five regarding platforms and the critical differences with products:
+1. [Platform Product Manager: Partner (1/5)](from-product-manager-to-platform-manager-the-partners-impact-1-5.md)
+1. [Platform Product Manager: Complexity (2/5)](from-product-to-platform-increased-complexity-2-5.md)
+1. [Platform Product Manager: Mental Models (3/5)](from-product-to-platform-platform-mental-models-3-5.md)
+1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
+
+In this post, I uses PM as an acronym for a regular PM role and PPM for a “_platform product manager”_ role.
 
 ### Critical differences between product and platform
 
-The platform & partners form an ecosystem centered around value creation for the platform users. [By definition](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0), on aggregate, the platform derives less value than the partners.
+The platform & partners form an ecosystem centered around value creation for the platform users. [By definition](from-product-manager-to-platform-manager-the-partners-impact-1-5.md), on aggregate, the platform derives less value than the partners.
 
 <IMG src="/blog/images/max/800/0-egfha4lvnfygolgp.jpg" caption="Value creation represented as compounded interest for a user with three different apps." >
 
@@ -61,7 +67,7 @@ A platform will always prioritize its user needs before the partner needs it. Th
 
 Platforms have to focus on the bigger picture and strategic growth. It is the main flywheel responsible for platform success. The Pareto principle can guide the platform to decide which feature is core and which one should be part of the partner value creation chain.
 
-For any decision, always use multiple [mental models](https://medium.com/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c) and make sure to consider usability, feasibility, and viability.
+For any decision, always use multiple [mental models](from-product-to-platform-platform-mental-models-3-5.md) and make sure to consider usability, feasibility, and viability.
 
 ---
 
@@ -87,20 +93,11 @@ This feedback will correlate, or not, with the kool-aid that one tends to drink 
 
 As a PPM, you will be in a unique position to bridge the gap between these two versions of reality and improve the ecosystem.
 
-### Feedback is a gift
+### Complete series: 
+1. [Platform Product Manager: Partner (1/5)](from-product-manager-to-platform-manager-the-partners-impact-1-5.md)
+1. [Platform Product Manager: Complexity (2/5)](from-product-to-platform-increased-complexity-2-5.md)
+1. [Platform Product Manager: Mental Models (3/5)](from-product-to-platform-platform-mental-models-3-5.md)
+1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
+1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-A key Shopify core value is Feedback is a gift.
-
-You can reach me at [Benoit des Ligneris](mailto:ben@radicaloptimist.org ).
-
-What differences did I miss?
-
-* Do you share the conclusion or do you think that working on a singular product can be as impactful as operating at a platform level?
-* Why?
-
-This series has for other articles:
-
-1. [Product to Platform (1/5): the partners](https://radicaloptimist.org/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0)2. [Platforms complexity (2/5)](https://radicaloptimist.org/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d)3. [Mental Models (3/5)](https://radicaloptimist.org/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c)4. [Revolutions (4/5)](https://radicaloptimist.org/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)
-
-
-
+{{% feedback-en %}}

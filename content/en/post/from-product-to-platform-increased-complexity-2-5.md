@@ -107,19 +107,12 @@ Any API change and behavior change that can impact a partner will increase the n
 
 All these new players and approval processes can cause setbacks and delays. This is especially critical when the launch date is fixed. Typically the yearly developer conference. As often, don't wait: be pro-active, engage with these stakeholders early on, find them, build a meaningful relationship with them and establish trust even before the project has started.
 
-#### Feedback is a gift
+### Complete series: 
+1. [Platform Product Manager: Partner (1/5)](from-product-manager-to-platform-manager-the-partners-impact-1-5.md)
+1. [Platform Product Manager: Complexity (2/5)](from-product-to-platform-increased-complexity-2-5.md)
+1. [Platform Product Manager: Mental Models (3/5)](from-product-to-platform-platform-mental-models-3-5.md)
+1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
+1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-You can reach me at [Benoit des Ligneris](mailto:ben@radicaloptimist.org ).
-
-* Are platforms really more complex than products?
-* Any counter-examples?
-* Any feedback?
-
-Part of this story:1. [Product to Platform (1/5): the partners](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0#fabe)
-
-The next blog post (3/5) is all about platform thinking. I will present mental models I have found useful to better understand and interact with platforms.
-
-3. [Product to Platform (3/5): Mental models](https://medium.com/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c)4. [Product to Platform (4/5): Revolutions](https://medium.com/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)5. [Conclusion (5/5)](https://medium.com/swlh/from-product-to-platform-conclusion-5-5-3e000f864c48)
-
-
+{{% feedback-en %}}
 

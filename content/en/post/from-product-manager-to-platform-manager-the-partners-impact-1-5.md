@@ -4,7 +4,7 @@ description = ""
 draft = false
 image = "/blog/images/max/800/1-a1yyxncgq03-npu9jqczjg.jpg"
 slug = "from-product-manager-to-platform-manager-the-partners-impact-1-5"
-summary = "Platform Managers listen to the voice of the developer.\n\nWhat is platform, the platform manager role, the partner’s impact"
+summary = "Platform Managers listen to the voice of the developer."
 tags = ["Product Manager", "Plaform"]
 title = "From Product Manager to Platform Manager — the Partners’ Impact(1/5)"
 +++
@@ -66,14 +66,14 @@ The boundary between the platform and the partners depend on partners’ and pla
 
 Delighters of the past are basic functionalities of today (See [Kano model](https://en.wikipedia.org/wiki/Kano_model)). Slowly, the platform incorporates more and more features from partners, while partners continue to innovate and create value by adding needs unmet by the platform.
 
-As a PPM, you need to understand the value creation chain from a systemic point of view. You need to consider partners’ contributions to the ecosystem for each of your decisions. Platform evolution is the subject of the fourth blog post on the platform vs product series.
+As a PPM, you need understand the value creation chain from a systemic point of view. You need to consider partners’ contributions to the ecosystem for each of your decisions. Platform evolution is the subject of the fourth blog post on the platform vs product series.
 
-#### Feedback is a gift
+### Complete series: 
+1. [Platform Product Manager: Partner (1/5)](from-product-manager-to-platform-manager-the-partners-impact-1-5.md)
+1. [Platform Product Manager: Complexity (2/5)](from-product-to-platform-increased-complexity-2-5.md)
+1. [Platform Product Manager: Mental Models (3/5)](from-product-to-platform-platform-mental-models-3-5.md)
+1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
+1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-You can reach me at [Benoit des Ligneris](https://medium.com/u/7be03e6aa8e7).
-
-* Which key characteristic linked to products, partners or platforms did I miss?
-* Any feedback?
-
-Complete series: 1. [Partners (1/5)](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0)2. [Platforms complexity (2/5)](https://medium.com/swlh/from-product-to-platform-increased-complexity-2-5-d13709f5b88d)3. [Mental Models (3/5)](https://medium.com/swlh/from-product-to-platform-platform-mental-models-3-5-785f9719544c)4. [Revolutions (4/5)](https://medium.com/swlh/from-product-to-platform-platform-revolutions-4-5-ad12fa9cb9a3)5. [Conclusion (5/5)](https://medium.com/swlh/from-product-to-platform-conclusion-5-5-3e000f864c48)
+{{% feedback-en %}}
 
