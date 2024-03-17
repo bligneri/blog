@@ -4,7 +4,6 @@ featured_image: ''
 omit_header_text: true
 description: I would love to hear from you
 type: page
-menu: main
 ---
 
 Here is how you can reach me (your choice): 
