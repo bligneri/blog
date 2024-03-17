@@ -121,5 +121,4 @@ It’s too soon to tell if the model presented in “Sense and respond” is a c
 
 {{<figure src="/blog/images/max/1200/1-_0uhaa85xnmaqim6yh3y5w.png" caption="A great illustration of the book process by [XPlane](https://senseandrespond.co/blog/2017/4/16/visual-explanation-collaboration-with-xplane)" >}}
 
-  {{< feedback-en >}}
-
+{{< feedback-en >}}
