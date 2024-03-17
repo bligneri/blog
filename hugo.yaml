@@ -1,5 +1,6 @@
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
+theme: ananke
 languages:
   fr:
     contentDir: content/fr
