@@ -12,5 +12,5 @@ Voici comment me rejoindre (au choix):
 ### LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/benoitdesligneris/)
 
-### Contact form
+### Formulaire de contact
 {{< form-contact action="https://formspree.io/f/xrgnaeqp"  >}}
