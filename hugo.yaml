@@ -1,6 +1,7 @@
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 theme: ananke
+pagination: 12
 languages:
   fr:
     contentDir: content/fr
