@@ -27,7 +27,7 @@ No intermediary, no fuss.
 
 Simple and elegant.
 
-<IMG src="/images/max/800/1-e4ecwykyrhzok85ckdhxig.png" caption="Schematic of the DTC model vs the multi-tier distribution model for&nbsp;wine" >
+{{< figure src="/images/max/800/1-e4ecwykyrhzok85ckdhxig.png" caption="Schematic of the DTC model vs the multi-tier distribution model for wine" >}}
 
 **Bonuses :**
 
@@ -45,7 +45,7 @@ The current distribution model for wineries is a multi tiered system. To find a 
 
 The wines end up in brick and mortar shops (another intermediary!). Each shop contains only a fraction of the wines produced worldwide at a high cost for the consumer.
 
-<IMG src="/images/max/800/1-ncnpy1wxgnsqaqfjqjrjew.png" caption="Grapes almost ready for harvest in the Hunter Valley (Australia 2016)" >
+{{< figure src="/images/max/800/1-ncnpy1wxgnsqaqfjqjrjew.png" caption="Grapes almost ready for harvest in the Hunter Valley (Australia 2016)" >}}
 
 All in all, a winery’s revenue is often no more than 40% of the retail price. Make it 20% or less if the wine is sold internationally.
 
@@ -63,7 +63,7 @@ On the consumer’s side, DTC guarantees that they know what they are drinking. 
 
 DTC is happening, even for large wineries. Rob McMillan, [SVB on wine](http://svbwine.blogspot.ca/) and author of the “State of the Industry wine report 2016” wrote : “_Today the smaller producers absolutely could not live without direct sales, and when we say small in this context, we are talking about wineries with less than 100,000 in case sales._” (p38)
 
-<IMG src="/images/max/800/1-tqxvyazhly1gba11wpllkg.png" caption="ShipCompliant 2016 report on DTC (<a href="http://www.shipcompliant.com/shippingreport" data-href="http://www.shipcompliant.com/shippingreport" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">www.shipcompliant.com/shippingreport</a>)" >
+{{< figure src="/images/max/800/1-tqxvyazhly1gba11wpllkg.png" caption="Image from [ShipCompliant 2016 report](http://www.shipcompliant.com/shippingreport) on DTC" >}}
 
 DTC is the leanest and simplest business model. We envision it as the principal growth channel for independent wineries. What are the key challenges (matter for future articles!) :
 
@@ -90,7 +90,7 @@ This distribution channel is already dominated by industry juggernauts. They con
 
 They have started to focus on boutique and medium wineries. Merger and acquisition for 2016 are expected to grow steadily.
 
-<IMG src="/images/max/800/1-4uxarzasgjgzplojn9rlja.png" caption="DTC shipment volume in the U.S from 2010 to 2015 — .ShipCompliant 2016 report on DTC (<a href="http://www.shipcompliant.com/shippingreport" data-href="http://www.shipcompliant.com/shippingreport" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">www.shipcompliant.com/shippingreport</a>)" >
+{{< figure src="/images/max/800/1-4uxarzasgjgzplojn9rlja.png" caption="DTC shipment volume in the U.S from 2010 to 2015 — [ShipCompliant 2016 report on DTC](http://www.shipcompliant.com/shippingreport)" >}}
 
 However, current and future consumers (millennials) rely more and more on friends, family and social reference to buy online. They look for authentic products and are ready to pay more for these.
 
@@ -98,5 +98,5 @@ Now is a good time to be a boutique, small or medium winemaker.
 
 Providing one can tap into the DTC channels and fulfill customers expectations (online access, social interaction, easy to buy online, good fulfillment), genuine and authentic products will be able to compete head to head with premium wine and industry juggernaut.
 
-[Benoît des Ligneris](https://ca.linkedin.com/in/benoitdesligneris), Ph. D. is Chief Growth Officer of [Subscribility](http://www.subscribility.com/)
 
+{{< feedback-en>}}

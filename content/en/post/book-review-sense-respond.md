@@ -34,7 +34,7 @@ The authors explain the differences between the old “product-based, industrial
 
 **The second chapter** gives an overview of the sense and response model:
 
-<IMG src="/images/max/800/1-kfcvlb4olkotx-dhc_8wag.jpg" >
+{{< figure src="/images/max/800/1-kfcvlb4olkotx-dhc_8wag.jpg" >}}
 
 1. Small autonomous teams (and then teams of team to scale)
 2. Learning via loose plans and controlled risk-taking (and failures)
@@ -43,7 +43,7 @@ The authors explain the differences between the old “product-based, industrial
 
 **Chapter 3** is about resistance: why do companies/organizations resist change. What to do about it? This chapter is useful if you are in the transition phase. But not only! These obstacles are common to classic organizations who want to transition to a “sense and respond” model. A recommended read even if you work in a software startup or within an already practicing sense and respond organization.
 
-<IMG src="/images/max/800/1-dqokv7zqeakjocwcqdwj9q.jpg" >
+{{< figure src="/images/max/800/1-dqokv7zqeakjocwcqdwj9q.jpg" >}}
 
 **Chapter 4** is about the prominent role that software has in the world.
 
@@ -89,7 +89,7 @@ What behaviours are critical:
 5. a bias for action
 6. empathy and collaboration.
 
-<IMG src="/images/max/800/1-1pzu_2geh6t0dro9spcp8g.jpg" >
+{{<figure src="/images/max/800/1-1pzu_2geh6t0dro9spcp8g.jpg" >}}
 
 ### Book review conclusion
 
@@ -119,5 +119,7 @@ It’s too soon to tell if the model presented in “Sense and respond” is a c
 
 ### Bonus: great illustration of the Sense & Respond model by XPlane
 
-<IMG src="/images/max/1200/1-_0uhaa85xnmaqim6yh3y5w.png" caption="<em class="markup--em markup--figure-em">The </em><a href="https://www.amazon.com/Sense-Respond-Successful-Organizations-Continuously/dp/1633691888/ref=asap_bc?ie=UTF8" data-href="https://www.amazon.com/Sense-Respond-Successful-Organizations-Continuously/dp/1633691888/ref=asap_bc?ie=UTF8" class="markup--anchor markup--figure-anchor" rel="nofollow noopener noopener noopener noopener" target="_blank"><em class="markup--em markup--figure-em">Sense &amp; Respond</em></a><em class="markup--em markup--figure-em"> Process (courtesy of&nbsp;</em><a href="https://www.xplane.com/" data-href="https://www.xplane.com/" class="markup--anchor markup--figure-anchor" rel="noopener nofollow noopener noopener noopener" target="_blank"><em class="markup--em markup--figure-em">Xplane</em></a><em class="markup--em markup--figure-em">)</em>" >
+{{<figure src="/images/max/1200/1-_0uhaa85xnmaqim6yh3y5w.png" caption="A great illustration of the book process by [XPlane](https://senseandrespond.co/blog/2017/4/16/visual-explanation-collaboration-with-xplane)" >}}
+
+  {{< feedback-en >}}
 

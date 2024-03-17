@@ -55,9 +55,5 @@ I did my research, and here are some tips that could help:
 * **Don't stay isolated!** Talk to your family and friends. Build your support network (alumni, etc.). If possible, do not talk job or work: you don't want to reexperience the addiction you are trying to break! You may also want to consider finding a health counsellor (and this is quite often part of your separation package)
 * **Have fun!** It may be the most counterintuitive, but life decided to give you some free time! Change your environment (to have more fun!), distract yourself (to also have more fun!) and create/reinforce meaningful connexions with fellow humans.
 
-Feedback is a gift 🙏🏼: don't hesitate to share your thoughts!You can comment on this article or reach me:- email: [ben@radicaloptimist.org](mailto:ben@radicaloptimist.org ), - [LinkedIn](https://www.linkedin.com/in/benoitdesligneris/ )  
 
-
-
-
-
+{{< feedback-en>}}
