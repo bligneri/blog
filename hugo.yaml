@@ -1,9 +1,8 @@
-baseURL: https://bligneri.github.io/blog/
+baseURL: ./blog/
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 theme: ananke
 pagination: 12
-canonifyURLs: true
 #canonifyurls: true
 
 params:
