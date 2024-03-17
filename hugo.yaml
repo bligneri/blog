@@ -4,6 +4,7 @@ defaultContentLanguageInSubdir: true
 theme: ananke
 pagination: 12
 #canonifyurls: true
+#enableMissingTranslationPlaceholders: true
 
 params:
   ananke_social:
