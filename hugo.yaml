@@ -3,6 +3,8 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 theme: ananke
 pagination: 12
+canonifyURLs: true
+#canonifyurls: true
 
 params:
   ananke_social:
@@ -17,7 +19,7 @@ languages:
     languageDirection: ltr
     languageName: Francais
     params:
-      subtitle: Un blog
+      subtitle: Blog
     title: RadicalOptimist
     weight: 2
   en:
