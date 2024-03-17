@@ -7,9 +7,15 @@ pagination: 12
 #enableMissingTranslationPlaceholders: true
 
 params:
+  show_reading_time: true
   ananke_social:
   - name: linkedin
     url: https://www.linkedin.com/in/benoitdesligneris/
+  - name: github
+    url: https://github.com/bligneri
+    label: My GitHub Account
+    color: '#ff6800'
+
 
 languages:
   fr:
@@ -18,17 +24,29 @@ languages:
     languageCode: fr-ca
     languageDirection: ltr
     languageName: Francais
-    params:
-      subtitle: Blog
-    title: RadicalOptimist
+    title: Optimiste Radical
     weight: 2
+    menus:
+      main:
+        - name: Blog
+          pageRef: /post/
+        - name: M'engager
+          pageRef: /service
+        - name: Me contacter
+          pageRef: /contact
   en:
     contentDir: content/en
     disabled: false
     languageCode: en-ca
     languageDirection: ltr
     languageName: English
-    params:
-      subtitle: Blog
-    title: RadicalOptimist
+    title: Radical Optimist
     weight: 1
+    menus:
+      main:
+        - name: Blog
+          pageRef: /post/
+        - name: Hire me
+          pageRef: /service
+        - name: Contact me 
+          pageRef: /contact
