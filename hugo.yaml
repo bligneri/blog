@@ -2,6 +2,12 @@ defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 theme: ananke
 pagination: 12
+
+params:
+  ananke_social:
+  - name: linkedin
+    url: https://www.linkedin.com/in/benoitdesligneris/
+
 languages:
   fr:
     contentDir: content/fr
