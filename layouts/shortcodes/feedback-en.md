@@ -9,5 +9,3 @@ Feedback is a gift 🙏🏼: don't hesitate to share your thoughts!s!
 You can comment on this article or reach me:
 - email: [ben@radicaloptimist.org](mailto:ben@radicaloptimist.org ), 
 - [LinkedIn](https://www.linkedin.com/in/benoitdesligneris/ )  
-
-

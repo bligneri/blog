@@ -1,0 +1,19 @@
+---
+title: Contact
+featured_image: ''
+omit_header_text: true
+description: We'd love to hear from you
+type: page
+menu: main
+
+---
+
+Here is how you can reach me (your choice): 
+
+### LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/benoitdesligneris/)
+
+### Contact form
+{{< form-contact action="https://formspree.io/f/xrgnaeqp"  >}}
+
+
