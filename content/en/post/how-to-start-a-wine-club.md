@@ -30,7 +30,7 @@ Of course, while this article is centered around wineries and wine club, there a
 
 ### Why start a wine club now?
 
-Wine clubs bring many benefits to wineries. They are part of the [Direct To Consumer trend](https://medium.com/dtc-wine/what-direct-to-consumer-dtc-represents-for-genuine-wine-makers-74f12b52057a#.yk73ttyzt). No intermediaries between you and the customer. Each fulfilled order results in much higher profit per bottle. If your members trust you to hold their credit card on file, this becomes a very attractive proposition.
+Wine clubs bring many benefits to wineries. They are part of the [Direct To Consumer trend](what-direct-to-consumer-dtc-represents-for-genuine-wine-makers.md). No intermediaries between you and the customer. Each fulfilled order results in much higher profit per bottle. If your members trust you to hold their credit card on file, this becomes a very attractive proposition.
 
 > [“The average wine club member buys almost seven bottles of wine when visiting a cellar door and spends almost $65 more per visit than the non-club member.”](http://research.wineaustralia.com/boosting-sales-and-brand-loyalty-with-cellar-doors-and-wine-clubs/)— Wine Australia Research and Development, March 2014
 
@@ -56,7 +56,7 @@ In practice, your club starts the day you will sign up…**one** active member! 
 
 Compared to one-time customers, your members seek a more engaging relationship with your winery. They trust you to produce, year after year, great quality wine. In exchange, you have to take good care of them. Offer them some special treatment: private activities (luncheon, private tasting, harvests,…), discounts or even exclusive products. In fact, by definition, your most loyal members **do not need** discounts — it is better to reward them with special wines, gourmet food or maybe complimentary nights in your B&B if you have one.
 
-<IMG src="/blog/images/max/800/1-dkl1vgthuyaq729e8m29sg.jpg" caption="<a href="http://fourwindsvineyard.com.au/" data-href="http://fourwindsvineyard.com.au/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Four Winds Vineyard</a> are wine club champs. They know how to make their members feel&nbsp;welcome." >
+{{<figure src="/blog/images/max/800/1-dkl1vgthuyaq729e8m29sg.jpg" caption="(Four Winds Vineyards)[http://fourwindsvineyard.com.au/] are wine club champs. They know how to make their members feel&nbsp;welcome." >}}
 
 A “club run” happens when you send a case of your wines (or more!) to all your members. With large clubs and without specialized software, this can be a daunting process. Processing credit cards manually, chasing after missing/invalid/expired credit cards, contacting the members, printing labels…
 

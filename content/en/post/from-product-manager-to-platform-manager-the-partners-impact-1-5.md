@@ -52,7 +52,7 @@ Platform companies do not have product announcements. They have a developer conf
 
 Like the yearly reveal of the roadmap for product companies, developer conferences mix a compelling vision of the future where partners have a critical role to play.
 
-<IMG src="/blog/images/max/800/1-n1slsx0vux1uyeswpxzbfa.jpg" caption="Partners at a workshop / Photo from&nbsp;<a href="https://burst.shopify.com" data-href="https://burst.shopify.com" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>" >
+{{< figure src="/blog/images/max/800/1-n1slsx0vux1uyeswpxzbfa.jpg" caption="Partners at a workshop Photo from [Burst](https://burst.shopify.com)" >}}
 
 In your area of the platform, I genuinely believe that PPMs should develop this community and use this collective wisdom and intelligence to shape up a better partner and user experience.
 

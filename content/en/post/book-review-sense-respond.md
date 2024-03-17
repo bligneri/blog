@@ -1,5 +1,5 @@
 +++
-categories = ["medium", "Import 2023-06-01 01:13", "Books", "auto-feature-image"]
+categories = ["Books"]
 date = 2019-04-02T15:39:05Z
 description = ""
 draft = false

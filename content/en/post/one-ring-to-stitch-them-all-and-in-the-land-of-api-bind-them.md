@@ -21,15 +21,15 @@ I had lots of experience designing and integrating with REST API and always had 
 
 #### Example REST APIs working “together”
 
-<IMG src="/blog/images/max/800/1-iifnkw3i1ayvivqzmp-lfg-2x.jpg" caption="Example in REST: multiple queries to get a simple&nbsp;answer" >
+{{<figure src="/blog/images/max/800/1-iifnkw3i1ayvivqzmp-lfg-2x.jpg" caption="Example in REST: multiple queries to get a simple&nbsp;answer" >}}
 
 #### Irreversible decision
 
-From a PM point of view, your product/platform API protocol (GraphQL or REST) is an archetypal irreversible decision (Type I decision in Besos mental model). This decision has a substantial short-term (development), medium-term (support cost) and long-term (value creation by [the platform partners](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0)) impact.
+From a PM point of view, your product/platform API protocol (GraphQL or REST) is an archetypal irreversible decision (Type I decision in Besos mental model). This decision has a substantial short-term (development), medium-term (support cost) and long-term (value creation by [the platform partners](from-product-manager-to-platform-manager-the-partners-impact-1-5.md)) impact.
 
 It was healthy to examine alternatives and spend some time to gather information and agree on this decision.
 
-In this short blog, I do not intend to detail the differences between REST and GraphQL. I will focus on a single element that is extremely useful for platforms and their partner ecosystem (see the [from product to platform](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0) series)
+In this short blog, I do not intend to detail the differences between REST and GraphQL. I will focus on a single element that is extremely useful for platforms and their partner ecosystem (see the [from product to platform](from-product-manager-to-platform-manager-the-partners-impact.md) series)
 
 ### Thrive on change: GraphQL at Shopify
 
@@ -61,7 +61,7 @@ As a platform grows in scale and capabilities, REST becomes incredibly costly an
 
 GraphQL example
 
-<IMG src="/blog/images/max/800/1-umgp3teudc8gage7ki2arg-2x.jpg" >
+{{<figure src="/blog/images/max/800/1-umgp3teudc8gage7ki2arg-2x.jpg" >}}
 
 Schema for multiple the same query as the REST example above : more elegant, less bandwidth used and … easier to understand!
 

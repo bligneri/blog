@@ -38,7 +38,7 @@ The habit-forming process is governed by the trigger, expectation and reward dop
 
 Our mental models of the world that is driving these behaviours rely on the connexions made between millions of neurones. Think about a behaviour you have done 10 000 times already without even thinking about it. If you hit your facebook/linkedin/TikTok/etc. feed 30 times/day and have been doing it for one year: 10 000 hits. If you’ve been doing it for five years, 50 000 hits.
 
-<IMG src="/blog/images/max/800/1-2_rhntyxn0m4feosirawyq-2x.jpg" >
+{{<figure src="/blog/images/max/800/1-2_rhntyxn0m4feosirawyq-2x.jpg" >}}
 
 Lots of books and resources exist on behaviour/habit-forming patterns as well as addiction. There is a scientific consensus that the first step is recognizing that we have a problem (Awareness), then accept our own behaviour and finally decide to take action.
 

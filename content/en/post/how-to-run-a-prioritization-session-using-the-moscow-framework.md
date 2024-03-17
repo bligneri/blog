@@ -65,7 +65,7 @@ Depending on your current alignment, you can experiment with three types of meet
 
 In my experience, the first few times I used the framework, I used a structured approach. These days, I tend to use a free-form approach, merely making sure we spend some time on each segment. Feel free to experiment with these approaches.
 
-<IMG src="/blog/images/max/800/1-eof8zy71b5dqkfjtucofjw.png" >
+{{<figure src="/blog/images/max/800/1-eof8zy71b5dqkfjtucofjw.png" >}}
 
 **Weak alignment**:You should start from the less absolute quadrants. Namely the could-have and should-have.
 
@@ -80,7 +80,7 @@ The proposed path is illustrated on the left.
 
 ---
 
-<IMG src="/blog/images/max/800/1-sfxmlm7r1yslylnk8miula.png" >
+{{ <figure src="/blog/images/max/800/1-sfxmlm7r1yslylnk8miula.png" >}}
 
 #### **Already a strong alignment.**
 
@@ -91,7 +91,7 @@ If you already have a strong alignment the Must-Have and Won’t-Have quadrants 
 3. **Should-have:** This is where you should spend most of the team time. Lots of interesting discussions to have. Discussions will mostly be around the should-have vs could-have requirements.
 4. **Could-have:** If you have time, otherwise, you can move to the conclusion.
 
-<IMG src="/blog/images/max/800/1-qsiadvsm0effyxoxi5vkog-2x.jpg" >
+{{<figure src="/blog/images/max/800/1-qsiadvsm0effyxoxi5vkog-2x.jpg" >}}
 
 #### **Free-form discussion**
 

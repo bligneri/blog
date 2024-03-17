@@ -11,7 +11,7 @@ title = "📖 Never Split The Difference: the art of contextual questioning with
 +++
 
 
-<IMG src="/blog/images/max/800/1-5a8sbvecxuhqdkp3hicfjq.jpg" caption="Never Split the difference by <a href="https://twitter.com/VossNegotiation" data-href="https://twitter.com/VossNegotiation" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Chris Voss</a> &amp; <a href="https://twitter.com/tahlraz" data-href="https://twitter.com/tahlraz" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Tahl Raz</a> (book&nbsp;cover)" >
+{{<figure src="/blog/images/max/800/1-5a8sbvecxuhqdkp3hicfjq.jpg" caption="Never Split the difference by [https://twitter.com/VossNegotiation]" >}}
 
 It can seems ironical or even sarcastic to review such a book on a blog about optimism and product management. This is not the case: everyone can become a better human being with this book.
 
@@ -37,7 +37,7 @@ I also loved the fact that the book expand the best alternative to a negotiated 
 
 This technique is not in the book but I always imagine more than three scenarios:
 
-<IMG src="/blog/images/max/800/1-zu5u0zzxlrzfad2ott8eya.jpg" caption="You alphabet scenario&nbsp;… (image by&nbsp;<a href="https://burst.shopify.com/" data-href="https://burst.shopify.com/" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>)" >
+{{<figure src="/blog/images/max/800/1-zu5u0zzxlrzfad2ott8eya.jpg" caption="Your alphabet scenario from [Burst](https://burst.shopify.com/)" >}}
 
 * **A**: The ideal scenario (very ego flattering)
 * **B**: depend on the situation

@@ -25,7 +25,7 @@ In this article, I want to share, based on these two very contrasting experience
 
 **Disclaimer**: Authority and formal organizational structure are great and super-useful in times of crisis or during any emergency. You don’t want firefighters or ER practitioners to debate and start an alignment process during a fire or while you are on the operation table!
 
-<IMG src="/blog/images/max/800/1-me2c0poaagnb-npzwlk1lw.png" >
+{{<figure src="/blog/images/max/800/1-me2c0poaagnb-npzwlk1lw.png" >}}
 
 #### Life with authority
 

@@ -13,13 +13,13 @@ title = "From Product to Platform — Increased Complexity (2/5)"
 
 #### The journey of a Product manager: from product to platform.
 
-In the [precedent post](https://medium.com/swlh/from-product-manager-to-platform-manager-the-partners-impact-1-5-c906bdb1dcd0#fabe), I described the importance of the partners in a platform world. Now let's have a look at complexity, once again, trying to highlight the differences between product and platform development.
+In the [precedent post](from-product-manager-to-platform-manager-the-partners-impact.md), I described the importance of the partners in a platform world. Now let's have a look at complexity, once again, trying to highlight the differences between product and platform development.
 
 The Product Manager role is abbreviated as PM while the Platform Product Manager one is abbreviated as PPM
 
 ### Technology
 
-<IMG src="/blog/images/max/800/1-xxi-kg18lipn4xcfzmoqqq.jpg" caption="Code complexity / Photo by <a href="https://unsplash.com/@cdr6934?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" data-href="https://unsplash.com/@cdr6934?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Chris Ried</a> on&nbsp;<a href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" data-href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Unsplash</a>" >
+{{ < figure src="/blog/images/max/800/1-xxi-kg18lipn4xcfzmoqqq.jpg" caption="Code complexity / Photo by [Chris Ried](https://unsplash.com/@cdr6934)" >}}
 
 As a Platform Product Manager, you will need to interact with a more diverse engineering team because usually API design and development is quite different than front-end/user-facing development. Example of new specialties: API designer, API developer and then you also have multiple flavors to work with mainly REST and GraphQL these days.
 
@@ -47,7 +47,7 @@ Backward compatibility is not guaranteed even if the API does not change! An API
 
 For instance, you inherited a great project: in certain circumstances, by doing two external calls to partners instead of one, you could improve the user experience and solve a sturdy business problem. The team can ship this project during a two-week sprint.
 
-<IMG src="/blog/images/max/800/1-wdfdueoz6lc2kbjke6ua-g.jpg" caption="Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4636686" data-href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4636686" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Gerd Altmann</a> from&nbsp;<a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4636686" data-href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4636686" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Pixabay</a>" >
+{{<figure src="/blog/images/max/800/1-wdfdueoz6lc2kbjke6ua-g.jpg" caption="Image by (Gerd Altmann)[https://pixabay.com/users/geralt-9301/]">}}
 
 The product team develops and test it on a small scale (1% of the calls). When you roll-out, this causes a massive outage and lots of partners apps immediately stop working. After long hours of problem-solving, bug fixing and a massive revert of all the changes, you discover the root cause. Some partners were using a security tool to prevent denial of service attacks. The two calls that happened in a short interval triggered the security measure — the platform IPs were blocked for 1 minute. The platform retried the API call on average every 30s. The partners’ production engineering team did not even manage the security equipment!
 
@@ -91,7 +91,7 @@ Form your own opinion on who can help you the best to understand the problem spa
 
 When a partner/platform team exists, this team will tend to centralize the revenues from the partners. It can then become super hard to obtain funding because on one end the product team is building new API that will generate new revenues and on the other hand the platform team is considering these revenues part of their revenue stream. This could create a vicious circle because product team will then stop investing into the platform and only focus on actions that impacts their revenues and profitability.
 
-<IMG src="/blog/images/max/800/1-irck0htmemanrab3hvezag.jpg" caption="Image by <a href="https://pixabay.com/users/Santa3-3503898/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2751981" data-href="https://pixabay.com/users/Santa3-3503898/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2751981" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Santa3</a> from&nbsp;<a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2751981" data-href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2751981" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Pixabay</a>" >
+{{<figure src="/blog/images/max/800/1-irck0htmemanrab3hvezag.jpg" caption="Image by [Santa3](https://pixabay.com/users/Santa3-3503898)" >}}
 
 Lots of commercial teams and product organization to not have a strong platform muscle. They are well versed in the direct revenue model and prefer to contract partners directly using a 1:1 approach, not an API with a revenue share approach.
 

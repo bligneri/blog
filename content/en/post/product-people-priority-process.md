@@ -23,7 +23,7 @@ Product managers at the individual contributor level (including Apprentice Produ
 
 At more advanced levels, the **Prioritization** efforts take precedence and the product manager manages direct reports and is responsible for more and more team’s outcomes. As a mental framework, it remains usable and valid at any level of seniority.
 
-<IMG src="/blog/images/max/800/1-7bmkjsj7bqmoactcsiryna.jpg" >
+{{<figure src="/blog/images/max/800/1-7bmkjsj7bqmoactcsiryna.jpg" >}}
 
 ### People
 

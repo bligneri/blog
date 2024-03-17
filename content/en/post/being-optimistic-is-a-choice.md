@@ -29,6 +29,4 @@ As stated by [@theStoicEmperor](https://twitter.com/TheStoicEmperor):
 ## Personal challenge and key takeaway: 
 - **Today**, please try to look at at least a negative situation and look for a **positive outcome**.
 
-
-
 {{% feedback-en %}}

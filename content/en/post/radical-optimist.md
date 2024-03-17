@@ -13,7 +13,7 @@ title = "Radical + Optimist"
 
 ### Why being optimistic?
 
-See “[Why being optimistic is a choice](https://medium.com/radical-optimist/being-optimistic-is-a-choice-18ee07e34db)”.
+See “[Why being optimistic is a choice](being-optimistic-is-a-choice.md)”.
 
 ### Why a radical optimist?
 
@@ -25,7 +25,7 @@ On the contrary, stories with positive outcome and feelings are often labeled ch
 
 > Note: I do not endorse the “girly” term. However, this is a visible consequence of our society genderism. Positive takeaway: It reflects the heightened sensibility of women and also their capability to dream of a better future.
 
-<IMG src="/blog/images/max/1200/1-ocy280rxjett-iyfsw4r4q.png" >
+{{<figure src="/blog/images/max/1200/1-ocy280rxjett-iyfsw4r4q.png" >}}
 
 ### Why radical ?
 
@@ -54,7 +54,7 @@ We need optimism to bring back balance.
 
 > Only **radical optimism** can bring back some equilibrium in our world views.
 
-<IMG src="/blog/images/max/800/1-sjuc9i7otsefcfqb87jvra.jpg" >
+{{<figure src="/blog/images/max/800/1-sjuc9i7otsefcfqb87jvra.jpg" >}}
 
 We need goals, both as individuals and as the earth’s society. Those goals are not hard to find:
 
