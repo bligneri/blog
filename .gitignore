@@ -4,3 +4,4 @@ public/*
 *.swp
 *.lock
 resources/_gen/*
+*.zip
