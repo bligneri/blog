@@ -2,7 +2,7 @@
 date = 2020-01-09T19:01:01Z
 description = ""
 draft = false
-image = "/images/max/800/1-x7smeithmrcevhe0etifag-2x.jpg"
+image = "/blog/images/max/800/1-x7smeithmrcevhe0etifag-2x.jpg"
 slug = "i-am-not-a-writer-not-even-a-native-english-speaker"
 summary = "How I published 16 articles in 2019 and enjoyed the experience."
 tags = ["Essay"]
@@ -27,7 +27,7 @@ Even though I have a Ph.D. in physics, I felt a prisoner of my grade 5 grammar a
 
 I know how I learn. Everybody is different in this regard, but I learn by doing. Practice makes perfect is my personal motto. I made my first writing attempts in early 2019. I started writing content in French. Then, I would translate the articles in English.
 
-<IMG src="/images/max/800/1-7tglbnqw6tcozt6j-cibxq-2x.jpg" caption="Translating is not my cup of tea! Illustration by the&nbsp;author." >
+<IMG src="/blog/images/max/800/1-7tglbnqw6tcozt6j-cibxq-2x.jpg" caption="Translating is not my cup of tea! Illustration by the&nbsp;author." >
 
 It was painful and slow. While translating, I struggled with the order of words and especially verbs. The end-result never felt like natural English and not even like flowing English.
 
@@ -39,7 +39,7 @@ Worse, I did not feel like a writer at all but more like an incompetent translat
 
 Based on these new learnings, I switched to writing in English.
 
-<IMG src="/images/max/800/1-baox64kq7yecctojgvf54q-2x.jpg" caption="Updated process: more fun but not so great either! Illustration by the&nbsp;author." >
+<IMG src="/blog/images/max/800/1-baox64kq7yecctojgvf54q-2x.jpg" caption="Updated process: more fun but not so great either! Illustration by the&nbsp;author." >
 
 I also had a pet project — I operated my own Linux and Wordpress server. I stopped these activities when I decided to switch to Medium. This gave me more time. With these choices, I was able to get back a few hours a week to write more.
 
@@ -61,7 +61,7 @@ I also started to write on the iPad and discovered various creative programs. I 
 
 I rarely edited my drafts before publishing my content. I naively believed I was clear. In fact, I was not really reading what I had written but simply confirming the bias of my own ideas and mental models! And truth be said, with all the research and activities … they were quite clear but only for a single reader: me.
 
-<IMG src="/images/max/800/1-bqpvz3smhmdukxagqmjs6g-2x.jpg" caption="Updated process: lots of space to edit the texts and only keep what makes a good story! Illustration by the&nbsp;author." >
+<IMG src="/blog/images/max/800/1-bqpvz3smhmdukxagqmjs6g-2x.jpg" caption="Updated process: lots of space to edit the texts and only keep what makes a good story! Illustration by the&nbsp;author." >
 
 I introduced the sleep on it rule. I never publish anything the first day and I wait at least 2 days before re-reading and editing any article. I do this only when I am pleased with the content and the article structure. For the longer pieces, not a single word remained of the original!
 

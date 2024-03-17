@@ -2,7 +2,7 @@
 date = 2019-11-23T04:01:03Z
 description = ""
 draft = false
-image = "/images/max/800/1-a1yyxncgq03-npu9jqczjg.jpg"
+image = "/blog/images/max/800/1-a1yyxncgq03-npu9jqczjg.jpg"
 slug = "from-product-manager-to-platform-manager-the-partners-impact-1-5"
 summary = "Platform Managers listen to the voice of the developer.\n\nWhat is platform, the platform manager role, the partner’s impact"
 tags = ["Product Manager", "Plaform"]
@@ -52,7 +52,7 @@ Platform companies do not have product announcements. They have a developer conf
 
 Like the yearly reveal of the roadmap for product companies, developer conferences mix a compelling vision of the future where partners have a critical role to play.
 
-<IMG src="/images/max/800/1-n1slsx0vux1uyeswpxzbfa.jpg" caption="Partners at a workshop / Photo from&nbsp;<a href="https://burst.shopify.com" data-href="https://burst.shopify.com" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>" >
+<IMG src="/blog/images/max/800/1-n1slsx0vux1uyeswpxzbfa.jpg" caption="Partners at a workshop / Photo from&nbsp;<a href="https://burst.shopify.com" data-href="https://burst.shopify.com" class="markup--anchor markup--figure-anchor" rel="noopener" target="_blank">Burst</a>" >
 
 In your area of the platform, I genuinely believe that PPMs should develop this community and use this collective wisdom and intelligence to shape up a better partner and user experience.
 

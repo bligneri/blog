@@ -2,7 +2,7 @@
 date = 2023-06-16T23:12:04Z
 description = ""
 draft = false
-image = "/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
+image = "/blog/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
 slug = "happiness-a-dance-of-openness-and-closure"
 #summary = "Navigating the Rhythms of the Mind"
 tags = ["Happiness", "Optimist", "Psychology"]
@@ -13,7 +13,7 @@ title = "Happiness: a Dance of Openness and Closure"
 
 ### Navigating the Rhythms of the Mind
 
-{{< figure src="/images/image.png" title="An elephant at sunset by Aarón Blanco Tejedor on Unspash" caption="Photo by Aarón Blanco Tejedor on Unspash" >}}
+{{< figure src="/blog/images/image.png" title="An elephant at sunset by Aarón Blanco Tejedor on Unspash" caption="Photo by Aarón Blanco Tejedor on Unspash" >}}
 
 Our mind operates with two main paradigms. Open or closed.
 
@@ -25,7 +25,7 @@ A multitude of terms and expressions exists to designate open experiences. They 
 
 > When our mind is open, we associate these states with feelings like happiness, curiosity, effortless, control, empathy, relatedness, togetherness. These feelings lead to growth, wisdom, joy and happiness. There is no self in these feelings, simply a wide-open sensation welcoming and joyful.
 
-{{< figure src="/images/1-sgsc_gbxtpo3mfgldzsw0q-2x.jpg" title="Typical Open vs Closed feelings - (c) RadicalOptimist.org 2022" >}}
+{{< figure src="/blog/images/1-sgsc_gbxtpo3mfgldzsw0q-2x.jpg" title="Typical Open vs Closed feelings - (c) RadicalOptimist.org 2022" >}}
 
 ---
 
@@ -43,7 +43,7 @@ When our mind is closed, it manifests as fear, anger, stress, indecision, cravin
 
 Our open & closed states relate to Maslow's pyramid of needs. While our fight or flight reflex is indispensable to ensure our physiological and physical safety, it is hurting our ability to develop our self-esteem and self-actualization.
 
-{{< figure src="/images/max/800/1-rj0b8tax5-d9ugjymwpiaq-2x.jpg" title="Schema of Maslow's needs with the open and closed experiences." >}}
+{{< figure src="/blog/images/max/800/1-rj0b8tax5-d9ugjymwpiaq-2x.jpg" title="Schema of Maslow's needs with the open and closed experiences." >}}
 
 ### Good news: open and closed states do not last!
 

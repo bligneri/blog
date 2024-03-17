@@ -2,7 +2,7 @@
 date = 2019-12-19T09:01:02Z
 description = ""
 draft = false
-image = "/images/max/800/1-ihb2ej7tl-j0itdjdjn7la-2x.jpg"
+image = "/blog/images/max/800/1-ihb2ej7tl-j0itdjdjn7la-2x.jpg"
 slug = "how-to-run-a-prioritization-session-using-the-moscow-framework"
 summary = "10x ruthless prioritization\n\nA prioritization method to rapidly build consensus on the scope and share with your team and any stakeholder."
 tags = ["How-to", "Product Manager", "Prioritization"]
@@ -65,7 +65,7 @@ Depending on your current alignment, you can experiment with three types of meet
 
 In my experience, the first few times I used the framework, I used a structured approach. These days, I tend to use a free-form approach, merely making sure we spend some time on each segment. Feel free to experiment with these approaches.
 
-<IMG src="/images/max/800/1-eof8zy71b5dqkfjtucofjw.png" >
+<IMG src="/blog/images/max/800/1-eof8zy71b5dqkfjtucofjw.png" >
 
 **Weak alignment**:You should start from the less absolute quadrants. Namely the could-have and should-have.
 
@@ -80,7 +80,7 @@ The proposed path is illustrated on the left.
 
 ---
 
-<IMG src="/images/max/800/1-sfxmlm7r1yslylnk8miula.png" >
+<IMG src="/blog/images/max/800/1-sfxmlm7r1yslylnk8miula.png" >
 
 #### **Already a strong alignment.**
 
@@ -91,7 +91,7 @@ If you already have a strong alignment the Must-Have and Won’t-Have quadrants 
 3. **Should-have:** This is where you should spend most of the team time. Lots of interesting discussions to have. Discussions will mostly be around the should-have vs could-have requirements.
 4. **Could-have:** If you have time, otherwise, you can move to the conclusion.
 
-<IMG src="/images/max/800/1-qsiadvsm0effyxoxi5vkog-2x.jpg" >
+<IMG src="/blog/images/max/800/1-qsiadvsm0effyxoxi5vkog-2x.jpg" >
 
 #### **Free-form discussion**
 
