@@ -1,9 +1,12 @@
 #baseURL: "./"
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
-theme: ananke
+theme: 
+  - ananke
+  - hugo-embed-pdf-shortcode
 pagination: 12
 canonifyurls: true
+enableInlineShortcodes: true
 #enableMissingTranslationPlaceholders: true
 
 params:
@@ -15,6 +18,7 @@ params:
     url: https://github.com/bligneri
     label: My GitHub Account
     color: '#ff6800'
+
 
 
 languages:
