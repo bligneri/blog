@@ -2,7 +2,7 @@
 date = 2019-04-11T23:24:37Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-npvpfjnbsxpsmojpne00wa.jpg"
+featured_image = "/blog/images/max/800/1-npvpfjnbsxpsmojpne00wa.jpg"
 slug = "radical-optimist"
 summary = "Why being optimistic?\n\nWe have to visualize, dream and tell positive stories about the world we want to build. This requires a healthy dose of radical optimism."
 tags = ["Essay", "Optimist"]

@@ -2,9 +2,8 @@
 title: Contact
 featured_image: ''
 omit_header_text: true
-description: Contactez moi
+description: Contactez-moi
 type: page
-menu: main
 ---
 
 Voici comment me rejoindre:
