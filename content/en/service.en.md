@@ -8,12 +8,17 @@ type: page
 
 I offer fractional services (CPO, CTO or CPTO) for start-ups and scale-ups having either a punctual need or who want to work long-term with me.
 
-Here is how you can reach me (your choice): 
+I take an active role with the leadership team (CEO, CFO, founders, etc.) to deliver value. Given my background, I can operate as a fractional CTO/CPO or both.
+Fractional means that I have all the active responsibilties of a regular employee including a managerial role (hiring, promoting, firing) depending on the size of the team.
 
-### LinkedIn
-- [LinkedIn](https://www.linkedin.com/in/benoitdesligneris/)
+## Option 1: Book a meeting with me and let's discuss!
 
-### Contact form
-{{< form-contact action="https://formspree.io/f/xrgnaeqp"  >}}
+### [Book a meeting with me](https://cal.com/optimist/30min)
+
+----------
+
+## Option 2: Explain your needs and let's get in touch
+
+{{< service-form >}}
 
 
