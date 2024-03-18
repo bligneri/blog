@@ -50,3 +50,6 @@ At some point, as you become less reactive and more open, you will have more spa
 
 In other words, a person must get along with herself/himself as it is a prerequisite to get along with others.
 
+### Feedback is a gift
+
+{{< feedback-en >}}

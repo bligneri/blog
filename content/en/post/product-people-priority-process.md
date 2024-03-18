@@ -185,3 +185,6 @@ It will also prevent typical mistakes like:
 * trying to define the perfect system (Process) while priorities are changing every week based on various HIPPOs.
 * changing a tool and hoping for a people behaviour change, better process or better prioritization
 
+### Feedback is a gift
+{{< feedback-en >}}
+

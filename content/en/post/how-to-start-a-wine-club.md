@@ -84,3 +84,7 @@ Transforming one time consumers into long time members will allow you to focus o
 
 Benoît des Ligneris, Ph. D.Chief Growth Officer[Subscribility](http://subscribility.com/) : Wine club, cellar door, ecommerce management made easy
 
+### Feedback is a gift
+{{< feedback-en >}}
+
+

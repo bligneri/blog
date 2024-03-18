@@ -119,5 +119,5 @@ Thanks to [Mike Grigoriev](https://medium.com/u/9e7d880f3366) for the excellent 
 * How do you plan and organize your retrospective?
 * Any advice to have better retrospectives?
 
-{{% feedback-en %}}
+{{< feedback-en >}}
 

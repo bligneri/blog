@@ -56,4 +56,6 @@ I did my research, and here are some tips that could help:
 * **Have fun!** It may be the most counterintuitive, but life decided to give you some free time! Change your environment (to have more fun!), distract yourself (to also have more fun!) and create/reinforce meaningful connexions with fellow humans.
 
 
-{{< feedback-en>}}
+{{< feedback-en >}}
+
+

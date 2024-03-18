@@ -105,3 +105,6 @@ In an ideal world, your wine policies should be updated regularly. This should b
 
 At [subscribility](http://subscribility.com/), we believe that a wine club is a key differentiator. Your club policies should reflect what feels true and fair, for you and your members. A wine club provides [great benefits](value-chain-in-the-wine-industry.md) for your winery, if you don’t make the mistake of taking your members for granted. Always evolve and adapt!
 
+### Feedback is a gift
+{{< feedback-en >}}
+

@@ -68,11 +68,11 @@ To complete this description of the sales channels accessible to wineries, I wou
 
 [Subscribility](http://subscribility.com/) has been designed, from the ground up, by boutique winemakers to help them set up and grow their direct to consumer sales channels. As wine-lovers ourselves, we make every possible effort to ensure that the best authentic wines are still produced and are able to reach wine-lovers’ palates, thanks to the only channel available to each winery: the Direct-to-Consumer approach.
 
-#### Food for thought:
+### Self-reflection:
 
-What can be done to help boutique wineries reach their market?
+- What can be done to help boutique wineries reach their market?
+- Why has eCommerce not yet impacted the wine industry?
 
-Why has eCommerce not yet impacted the wine industry?
-
-_Why do you say the latter Benoit? It has had a BIG impact in Australia Current estimate gives online sales as 3.5% of total liquor retail sales._
+### Feedback is a gift
+{{< feedback-en >}}
 

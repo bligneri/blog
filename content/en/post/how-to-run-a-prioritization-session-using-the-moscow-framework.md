@@ -166,14 +166,17 @@ This document is a live document: it should not remain untouched for months in a
 
 When you have almost completed all the requirements in your Must-have quadrant, you can then start a new cycle with the Should-Have as a good starting list for the must-have quadrant. You can then organize your next MoSCoW prioritization team session!
 
-#### Feedback is a gift
+### Questions: 
 
 Have you used this method before? Any tip to share with the audience?
 
 Do you use another framework, how does it compare/relate to the MoSCoW one to build team and stakeholder alignment?
 
-For reference:
+### References:
 
 * [MoSCoW template](https://docs.google.com/spreadsheets/d/1yWYmqaSWoEO03yV-Q2rtp2TJj_yU7SVb-TCZOZ-_FfA/edit?folder=1wKKzblC3vCR5g5etwaBzEaljGXFIx1fS#gid=0)
 * [Wikipedia article](https://en.wikipedia.org/wiki/MoSCoW_method) on the MoSCoW prioritization method
+
+### Feedback is a gift
+{{< feedback-en >}}
 

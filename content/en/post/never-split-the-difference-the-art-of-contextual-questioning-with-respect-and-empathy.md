@@ -78,7 +78,8 @@ This is a recommended read to anyone who want to become:
 
 This is a great book that is easy to read. Each chapter has a real-life story from the author or one of his student. As you read through chapters you will experience the negotiation process step by step. At the end of each chapter the author summarized the key takeaways.
 
-Feedback is a gift 🙏🏼You can reach me at [Benoit des Ligneris](mailto:ben@radicaloptimist.org ).
 
 
+### Feedback is a gift
+{{< feedback-en >}}
 

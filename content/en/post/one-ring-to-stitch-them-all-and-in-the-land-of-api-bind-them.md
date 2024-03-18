@@ -77,8 +77,11 @@ Note: schema stitching is dead! it has been replaced with “[federations](https
 
 Many thanks to [Nicolas Lupien](https://medium.com/u/ca4d76503477) for early feedback and fact checking ;-)
 
-#### Feedback is gift
+#### Self-reflection
 
 * What do you dislike about GraphQL?
 * Do you use GraphQL for your product / platform. Why and … why not ?
+
+### Feedback is a gift
+{{< feedback-en >}}
 

@@ -114,6 +114,8 @@ These changes should be managed like any other change within your development pr
 
 ### Feedback is a gift
 
+{{< feedback-en >}}
+
 * Any experience with “tech debt” abuse in your organization?
 * Other typical abuse of the “tech debt” concept?
 * Is tech-debt still a thing with agile methodologies that promote just in time (but reusable) code?

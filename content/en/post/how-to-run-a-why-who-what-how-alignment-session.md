@@ -175,3 +175,7 @@ Once completed, every team-member can now explain the product, in a very brief f
 
 Precise answers will create a robust framework for prioritization and alignment during the delivery phase of the project and even beyond.
 
+
+### Feedback is a gift
+{{< feedback-en >}}
+
