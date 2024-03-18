@@ -2,7 +2,7 @@
 date = 2016-09-14T10:13:00Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-ky4ywolibchmvqphqrh80g.jpg"
+image = "/images/max/800/1-ky4ywolibchmvqphqrh80g.jpg"
 slug = "why-you-should-update-your-wine-club-policies-now"
 summary = "Reviewing an existing or creating a new wine club is an important operation, but, when you run a real-world winery, it is often not a…"
 tags = ["Wine Club", "How-to", "Wine", "DTC"]
@@ -19,7 +19,7 @@ Given the hectic flow of daily activities, chances are you have not reviewed you
 
 I hope this article convinces you that you have put off this task for far too long!
 
-{{<figure src="/blog/images/max/800/1-cf2hfvfme5ehpcgwpsmoha.jpg" caption="Image credit (EmergingTech.tbr.edu)[http://emergingtech.tbr.edu/strategic-planning-mobilization]" >}}
+{{<figure src="/images/max/800/1-cf2hfvfme5ehpcgwpsmoha.jpg" caption="Image credit (EmergingTech.tbr.edu)[http://emergingtech.tbr.edu/strategic-planning-mobilization]" >}}
 
 ---
 
@@ -33,7 +33,7 @@ As much as we would all like for our customer relationships to last forever, thi
 
 To deepen your relationship with your most trusted customers, you also need to evolve and adapt. A wine club is essentially a social contract between you and your club members. It can be a 140-character or a thousand-page long.
 
-{{<figure src="/blog/images/max/800/1-zqo09st_funaucy48mz0mq.jpg" caption="Image credit: [doityourself.com](http://www.doityourself.com/stry/wine-rack-archery-target)" >}}
+{{<figure src="/images/max/800/1-zqo09st_funaucy48mz0mq.jpg" caption="Image credit: [doityourself.com](http://www.doityourself.com/stry/wine-rack-archery-target)" >}}
 
 What should you aim for in the contract?
 
@@ -61,7 +61,7 @@ People tend to travel a lot these days and for extended periods of time. Having 
 
 ---
 
-{{<figure src="/blog/images/max/800/1-cshycszyy7wmualjb4k_ra.jpg" caption="Image credit [YogaWineClub]{http://www.yogawineclub.com/)" >}}
+{{<figure src="/images/max/800/1-cshycszyy7wmualjb4k_ra.jpg" caption="Image credit [YogaWineClub]{http://www.yogawineclub.com/)" >}}
 
 ### D — Flexibility
 
@@ -75,7 +75,7 @@ Make your system flexible. If everything is set in stone, your members will need
 
 ### E — Members relationship:
 
-{{<figure src="/blog/images/max/800/1-5hvj4u5qevpmmdfower-rg.jpg" caption="Image credit [https://au.pinterest.com/pin/419257046534241323/]" >}}
+{{<figure src="/images/max/800/1-5hvj4u5qevpmmdfower-rg.jpg" caption="Image credit [https://au.pinterest.com/pin/419257046534241323/]" >}}
 
 
 Do you record their preferences to ensure the delivery of the types of product that they love? For a red wine club, some members want “only Shiraz”, others “No Cab-Merlot”. Don’t ask the same question again and again.

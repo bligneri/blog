@@ -2,7 +2,7 @@
 date = 2019-12-27T05:53:53Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-wly7ecrymrcz1xn_y3gqiw.jpg"
+image = "/images/max/800/1-wly7ecrymrcz1xn_y3gqiw.jpg"
 slug = "how-reframing-negative-experiences-can-make-you-happier"
 summary = "A guide for learning from tough situations rather than simply ruminating on them"
 tags = ["Psychology", "How-to", "Optimist"]
@@ -34,7 +34,7 @@ I purposely used a mental model of my choosing instead of letting my emotions cr
 
 This type of mental model and how to apply it to its own life experience is part of what is now emerging as the field of cognitive behavioural therapy ([CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)). Broadly speaking, the goal of CBT is to change certain mental pathways that cause mental health issues or unhappiness in relation to yourself, others, and the future.
 
-{{<figure src="/blog/images/max/800/1-ppuujleziqju0w_84c2j4w-2x.jpg" caption="How mental models interact with your views of the world. All illustrations by the&nbsp;author." >}}
+{{<figure src="/images/max/800/1-ppuujleziqju0w_84c2j4w-2x.jpg" caption="How mental models interact with your views of the world. All illustrations by the&nbsp;author." >}}
 
 This active engagement of your left brain (the analytical brain) lowers the engagement of your right brain (feelings, visualization, etc.) and allows you to successfully stop the downward spiral.
 
@@ -42,7 +42,7 @@ The model I used is generic and can be applied to any situation. It is the **zon
 
 For example, consider guilt. Guilt is not an intrinsically bad feeling — but imagine feeling guilt on events and actions that you have no control over! It would create a personal hell.
 
-{{<figure src="/blog/images/max/800/1-mqgk1mmdqaq4fx2xnlv0yg-2x.jpg" caption="When you are submerged by negative emotions, you clearly feel overwhelmed by the events and your control zone is quite&nbsp;small." >}}
+{{<figure src="/images/max/800/1-mqgk1mmdqaq4fx2xnlv0yg-2x.jpg" caption="When you are submerged by negative emotions, you clearly feel overwhelmed by the events and your control zone is quite&nbsp;small." >}}
 
 ---
 
@@ -81,7 +81,7 @@ Because this chain of events is in the past, you can not alter it. You can only 
 * Scale down your concern zone
 * Scale up your control zone
 
-{{<figure src="/blog/images/max/800/1-ovpjcvceywqdvnudvk4uca-2x.jpg" caption="If you could scale down your zone of concern and scale up your zone of control, you can get rid of most of your negative emotions and start&nbsp;growing." >}}
+{{<figure src="/images/max/800/1-ovpjcvceywqdvnudvk4uca-2x.jpg" caption="If you could scale down your zone of concern and scale up your zone of control, you can get rid of most of your negative emotions and start&nbsp;growing." >}}
 
 #### How can you scale down your concern zone?
 
@@ -121,7 +121,7 @@ This is especially true if you feel that you did not think, speak, or act truthf
 
 Use the negative feelings to help you commit to changing into the better version of you that you want to be. Work exclusively on what you control and relinquish the illusion of control that caused all this suffering. Be 100% present with the people you love and admire. For more mundane matters, keep control of your emotions and temper during each interaction with fellow living beings.
 
-{{<figure src="/blog/images/max/800/1-ixb-ia8eafx-7byxaerinq-2x.jpg" caption="Life will throw new challenges at you. By applying this mental model regularly, you will be able to remain satisfied with what you have and then use them to grow and become a better version of yourself." >}}
+{{<figure src="/images/max/800/1-ixb-ia8eafx-7byxaerinq-2x.jpg" caption="Life will throw new challenges at you. By applying this mental model regularly, you will be able to remain satisfied with what you have and then use them to grow and become a better version of yourself." >}}
 
 Use this incredible experience that is life as a learning opportunity to change and grow as a human being.
 

@@ -2,7 +2,7 @@
 date = 2016-03-22T19:20:22Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-nkydczpehbyjukty7ka5ua.png"
+image = "/images/max/800/1-nkydczpehbyjukty7ka5ua.png"
 slug = "how-to-start-a-wine-club"
 summary = "How to start a wine club"
 tags = ["How-to", "DTC", "Wine"]
@@ -56,7 +56,7 @@ In practice, your club starts the day you will sign up…**one** active member! 
 
 Compared to one-time customers, your members seek a more engaging relationship with your winery. They trust you to produce, year after year, great quality wine. In exchange, you have to take good care of them. Offer them some special treatment: private activities (luncheon, private tasting, harvests,…), discounts or even exclusive products. In fact, by definition, your most loyal members **do not need** discounts — it is better to reward them with special wines, gourmet food or maybe complimentary nights in your B&B if you have one.
 
-{{<figure src="/blog/images/max/800/1-dkl1vgthuyaq729e8m29sg.jpg" caption="(Four Winds Vineyards)[http://fourwindsvineyard.com.au/] are wine club champs. They know how to make their members feel&nbsp;welcome." >}}
+{{<figure src="/images/max/800/1-dkl1vgthuyaq729e8m29sg.jpg" caption="(Four Winds Vineyards)[http://fourwindsvineyard.com.au/] are wine club champs. They know how to make their members feel&nbsp;welcome." >}}
 
 A “club run” happens when you send a case of your wines (or more!) to all your members. With large clubs and without specialized software, this can be a daunting process. Processing credit cards manually, chasing after missing/invalid/expired credit cards, contacting the members, printing labels…
 

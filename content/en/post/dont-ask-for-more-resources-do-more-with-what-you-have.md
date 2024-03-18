@@ -2,14 +2,14 @@
 date = 2021-02-22T06:44:26Z
 description = ""
 draft = false
-featured_image = "/blog/images/max/800/1-nnkyesyszwrxz9i_op0yvg.jpg"
+featured_image = "/images/max/800/1-nnkyesyszwrxz9i_op0yvg.jpg"
 slug = "dont-ask-for-more-resources-do-more-with-what-you-have"
 summary = "Instead of asking for more, focus on helping your team succeed. Ensure you align your goals with the team’s current capacity: this is the…"
 title = "Don’t Ask For More Resources: Do More With What You Have!"
 
 +++
 
-{{< figure src="/blog/images/max/800/1-nnkyesyszwrxz9i_op0yvg.jpg" caption="Do more with less from [Black Mouse Design](https://blackmousedesign.com.au/)" >}}
+{{< figure src="/images/max/800/1-nnkyesyszwrxz9i_op0yvg.jpg" caption="Do more with less from [Black Mouse Design](https://blackmousedesign.com.au/)" >}}
 
 Instead of asking for more, focus on helping your team succeed. Ensure you align your goals with the team’s current capacity: this is the only way for you to lead the team and help each team member grow.
 

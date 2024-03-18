@@ -3,7 +3,7 @@ categories = ["Books"]
 date = 2019-04-02T15:39:05Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-pbghdh0mm1iagnhuzzoiqq.jpg"
+image = "/images/max/800/1-pbghdh0mm1iagnhuzzoiqq.jpg"
 slug = "book-review-sense-respond"
 summary = "A great book for knowledge workers. This is a map to help you navigate in our increasingly digital world.\n\nSense and respond, product management, teal organizations, reinventing organizations"
 tags = ["Books", "Agility"]
@@ -34,7 +34,7 @@ The authors explain the differences between the old “product-based, industrial
 
 **The second chapter** gives an overview of the sense and response model:
 
-{{< figure src="/blog/images/max/800/1-kfcvlb4olkotx-dhc_8wag.jpg" >}}
+{{< figure src="/images/max/800/1-kfcvlb4olkotx-dhc_8wag.jpg" >}}
 
 1. Small autonomous teams (and then teams of team to scale)
 2. Learning via loose plans and controlled risk-taking (and failures)
@@ -43,7 +43,7 @@ The authors explain the differences between the old “product-based, industrial
 
 **Chapter 3** is about resistance: why do companies/organizations resist change. What to do about it? This chapter is useful if you are in the transition phase. But not only! These obstacles are common to classic organizations who want to transition to a “sense and respond” model. A recommended read even if you work in a software startup or within an already practicing sense and respond organization.
 
-{{< figure src="/blog/images/max/800/1-dqokv7zqeakjocwcqdwj9q.jpg" >}}
+{{< figure src="/images/max/800/1-dqokv7zqeakjocwcqdwj9q.jpg" >}}
 
 **Chapter 4** is about the prominent role that software has in the world.
 
@@ -89,7 +89,7 @@ What behaviours are critical:
 5. a bias for action
 6. empathy and collaboration.
 
-{{<figure src="/blog/images/max/800/1-1pzu_2geh6t0dro9spcp8g.jpg" >}}
+{{<figure src="images/max/800/1-1pzu_2geh6t0dro9spcp8g.jpg" >}}
 
 ### Book review conclusion
 
@@ -119,6 +119,6 @@ It’s too soon to tell if the model presented in “Sense and respond” is a c
 
 ### Bonus: great illustration of the Sense & Respond model by XPlane
 
-{{<figure src="/blog/images/max/1200/1-_0uhaa85xnmaqim6yh3y5w.png" caption="A great illustration of the book process by [XPlane](https://senseandrespond.co/blog/2017/4/16/visual-explanation-collaboration-with-xplane)" >}}
+{{<figure src="/images/max/1200/1-_0uhaa85xnmaqim6yh3y5w.png" caption="A great illustration of the book process by [XPlane](https://senseandrespond.co/blog/2017/4/16/visual-explanation-collaboration-with-xplane)" >}}
 
 {{< feedback-en >}}

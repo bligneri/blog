@@ -2,7 +2,7 @@
 date = 2019-04-19T16:54:26Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-rxrjvzbh7hjw4ppoqzti6g.png"
+image = "/images/max/800/1-rxrjvzbh7hjw4ppoqzti6g.png"
 slug = "never-split-the-difference-the-art-of-contextual-questioning-with-respect-and-empathy"
 summary = "A great book to become a better human being"
 tags = ["Book", "Negotiation", "Soft skill"]
@@ -11,7 +11,7 @@ title = "📖 Never Split The Difference: the art of contextual questioning with
 +++
 
 
-{{<figure src="/blog/images/max/800/1-5a8sbvecxuhqdkp3hicfjq.jpg" caption="Never Split the difference by [https://twitter.com/VossNegotiation]" >}}
+{{<figure src="/images/max/800/1-5a8sbvecxuhqdkp3hicfjq.jpg" caption="Never Split the difference by [https://twitter.com/VossNegotiation]" >}}
 
 It can seems ironical or even sarcastic to review such a book on a blog about optimism and product management. This is not the case: everyone can become a better human being with this book.
 
@@ -37,7 +37,7 @@ I also loved the fact that the book expand the best alternative to a negotiated 
 
 This technique is not in the book but I always imagine more than three scenarios:
 
-{{<figure src="/blog/images/max/800/1-zu5u0zzxlrzfad2ott8eya.jpg" caption="Your alphabet scenario from [Burst](https://burst.shopify.com/)" >}}
+{{<figure src="/images/max/800/1-zu5u0zzxlrzfad2ott8eya.jpg" caption="Your alphabet scenario from [Burst](https://burst.shopify.com/)" >}}
 
 * **A**: The ideal scenario (very ego flattering)
 * **B**: depend on the situation

@@ -2,7 +2,7 @@
 date = 2019-12-02T22:01:01Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-62vwiweyookbvkbttc59lq.jpg"
+image = "/images/max/800/1-62vwiweyookbvkbttc59lq.jpg"
 slug = "from-product-to-platform-platform-revolutions-4-5"
 summary = "From product to platform: A PM journey\n\nHow platforms can evolve. Tectonic and violent revolution or more subtle and frequent iterations? How the Pareto principle can help make better decisions."
 tags = ["Product Manager", "Platform"]
@@ -35,7 +35,7 @@ Let’s focus on a more drastic way for a platform to evolve: platform tectonic 
 
 The root causes of these significant changes are:- an existential threat to the platform or part of the platform- a major strategy shift- customer expectations have changed fast
 
-{{<figure src="/blog/images/max/800/1-nvj301b0gz8lbkinj01uqg.jpg" caption="Tectonic shifts -- Photo by [Andrew Buchanan](https://unsplash.com/@photoart2018)" >}}
+{{<figure src="/images/max/800/1-nvj301b0gz8lbkinj01uqg.jpg" caption="Tectonic shifts -- Photo by [Andrew Buchanan](https://unsplash.com/@photoart2018)" >}}
 
 The tectonic shift has the same consequences for the partner ecosystem as a major seism in the physical world. The dissipated energy can be enormous and have a tremendous impact area or be more localized and only affect a few specialized partners. It depends on the partner distance from the seism epicentre as well as the nature of the tectonic shift.
 
@@ -53,7 +53,7 @@ After a few iterations, the product becomes decent and used by millions of custo
 
 ### Internet Explorer: an incredible commercial success
 
-{{<figure src="/blog/images/max/800/1-06pusy4megy1hndrni6e1a.jpg" caption="Image from [Wikipedia](https://en.wikipedia.org/wiki/History_of_Internet_Explorer#/media/File:Internet-explorer-usage-data.svg)" >}}
+{{<figure src="/images/max/800/1-06pusy4megy1hndrni6e1a.jpg" caption="Image from [Wikipedia](https://en.wikipedia.org/wiki/History_of_Internet_Explorer#/media/File:Internet-explorer-usage-data.svg)" >}}
 
 In retrospect, Internet Explorer was immensely successful even if its user interface and quality are debatable. The data speaks by itself Internet Explorer was used by 94.43% in 2003 ([Wikipedia](https://en.wikipedia.org/wiki/History_of_Internet_Explorer#Market_adoption_and_usage_share)).
 
@@ -79,7 +79,7 @@ Android dominance as an OS created chrome browser dominance. It also explains wh
 
 Microsoft tried to become a first-class player on mobile. Billions of R&D and a failed acquisition later, RIP Windows Phone, RIP Nokia. Android and iOS crushed Microsoft platform-level competition efforts.
 
-{{<figure src="/blog/images/max/800/1-nui4zjo52r7filgem69grw.png" caption="Image from [Wikipedia](https://en.wikipedia.org/wiki/History_of_Internet_Explorer)" >}}
+{{<figure src="/images/max/800/1-nui4zjo52r7filgem69grw.png" caption="Image from [Wikipedia](https://en.wikipedia.org/wiki/History_of_Internet_Explorer)" >}}
 
 Microsoft is now a player in the cross-platform browser ecosystem world. Edge is bundled with Windows (of course!) but is also available on Android, iOS and even MacOS (beta for now).
 
@@ -103,7 +103,7 @@ This type of iterations is way more frequent than the tectonic shifts described 
 
 When user needs and expectations, as well as business reality, change slowly with time, platforms are relying on iterations to evolve. Platforms will either expand the functionality for specific partners’ type to create more value or move some of these functionalities inside the platform’s core offering.
 
-{{<figure src="/blog/images/max/800/1-jvcghjyvj6zk2pxswkpxrg.jpg" caption="Iterative evolution happens all the time and is used to evolve the boundaries between core platform functionality and partners&nbsp;slowly." >}}
+{{<figure src="/images/max/800/1-jvcghjyvj6zk2pxswkpxrg.jpg" caption="Iterative evolution happens all the time and is used to evolve the boundaries between core platform functionality and partners&nbsp;slowly." >}}
 
 These iterations create a perpetual tension between the partners’ single-function highly specialized offering and the broader/generic core offering by the platform. Both the platform and the partners are also actively monitoring what is happening on other platforms or products. In general, it is fair to say that the iterative approach is creating more value for the global ecosystem.
 
@@ -121,7 +121,7 @@ Strategy shifts, as well as legal or financial imperatives, are the root cause o
 
 The [Pareto law](https://en.wikipedia.org/wiki/Pareto_principle) states that for many events, 80% of the effects come from 20% of the causes.
 
-{{<figure src="/blog/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg" caption="The Pareto principle applied to platform and partners ecosystem" >}}
+{{<figure src="/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg" caption="The Pareto principle applied to platform and partners ecosystem" >}}
 
 This rule can be super helpful in deciding which feature is core to the platform. Only the most important features used by 80% of your users (or providing 80% of the platform value) should be part of the platform.
 

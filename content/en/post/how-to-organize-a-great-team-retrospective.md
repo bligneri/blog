@@ -2,7 +2,7 @@
 date = 2019-12-07T14:06:34Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-hpa-nvezyxg8rxb21itqbw-2x.jpg"
+image = "/images/max/800/1-hpa-nvezyxg8rxb21itqbw-2x.jpg"
 slug = "how-to-organize-a-great-team-retrospective"
 summary = "Retrospective help teams realize their impact and grow."
 tags = ["How-to", "Product"]
@@ -41,7 +41,7 @@ For long projects, prepare a timeline of the main events, including team member 
 
 Block the required amount of time based on the project size and complexity. You should plan at least 20 minutes/question, up to 30 minutes. Err toward 30 minutes, especially for a large team project.
 
-{{<figure src="/blog/images/max/800/1-pvtseiadez7qj4uz9d5y_w.jpg" caption="Photo by [Burst](https://burst.shopify.com/@matthew_henry)" >}}
+{{<figure src="/images/max/800/1-pvtseiadez7qj4uz9d5y_w.jpg" caption="Photo by [Burst](https://burst.shopify.com/@matthew_henry)" >}}
 
 ### Here are some traditional questions:
 
@@ -100,7 +100,7 @@ Make sure all the participants receive an overview of the activity. The moderato
 
 Of course, if the agreed-upon actions remain post-it notes on a physical or virtual board, the retrospective will not impact your team's growth. Like any issue on the board, some team members must take ownership and change processes, rituals, and tools. The team has to be comfortable to unlearn certain things and learn new things.
 
-{{<figure src="/blog/images/max/800/1-svomgzeh2vzpx9d_hi1waw-2x.jpg" caption="Retrospectives are the fuel for your team growth&nbsp;engine." >}}
+{{<figure src="/images/max/800/1-svomgzeh2vzpx9d_hi1waw-2x.jpg" caption="Retrospectives are the fuel for your team growth&nbsp;engine." >}}
 
 In a way, the retrospective is only the beginning of a transformative process for the team. Do not confuse the retrospective with the team transformation.
 

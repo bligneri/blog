@@ -2,7 +2,7 @@
 date = 2019-11-28T15:01:01Z
 description = ""
 draft = false
-image = "/blog/images/max/800/1-dqhi0lynno_d7gd6ipvyrw.jpg"
+image = "/images/max/800/1-dqhi0lynno_d7gd6ipvyrw.jpg"
 slug = "from-product-to-platform-platform-mental-models-3-5"
 summary = "The journey of a Product manager: from product to platform.\n\nUseful mental models to better understand platforms: Superset of knowledge, Ecosystem, Infinite Game, Compounded interest"
 tags = ["Product Manager", "Platform"]
@@ -40,7 +40,7 @@ The notion of subset and superset is a mathematical concept that applies to pret
 
 We can apply this model to the partner ecosystem (see the next platform mental model) as represented below.
 
-{{<figure src="/blog/images/max/800/1-k8dzkc18xo1mbramjc1i8q-2x.jpg" caption="Naive representation of the partner ecosystem diversity: colour is country, size is revenue, the shape is type of business (five partners, one platform)." >}}
+{{<figure src="/images/max/800/1-k8dzkc18xo1mbramjc1i8q-2x.jpg" caption="Naive representation of the partner ecosystem diversity: colour is country, size is revenue, the shape is type of business (five partners, one platform)." >}}
 
 All partners know about the platform. Quite often, the platform is what connects them together in the set theory: they need to have some sort of knowledge intersection with the platform. The platform is really the only universally shared knowledge among all partners.
 
@@ -48,7 +48,7 @@ Now, most of the partners do not know each other and operate using very differen
 
 Some partners are competitors: their domain expertise overlaps with each other’s while some of them operate in completely different business areas and have no shared knowledge.
 
-{{< figure src="/blog/images/max/800/1-hy8dasj9juk9loofp1lmya-2x.jpg" caption="Partners, in aggregate, have a superset of the platform knowledge." >}}
+{{< figure src="/images/max/800/1-hy8dasj9juk9loofp1lmya-2x.jpg" caption="Partners, in aggregate, have a superset of the platform knowledge." >}}
 
 If we could map all knowledge from all partners of the platform, it is my belief (validated with experience!) that the aggregated knowledge of partners represents a super-set of the platform knowledge.
 
@@ -74,7 +74,7 @@ Everything else should be built as an API that partners can now leverage to crea
 
 A product can be seen as a plant which is growing on a certain are on planet earth. A platform is similar to a complete ecosystem operating on the same planet. Each partner is now a plant or an animal operating in this ecosystem. Some of the platform partners will become their fiercest competitors, some are already a competitor, others are contributing to multiple ecosystems helping users to switch from one ecosystem to the other, etc.
 
-{{<figure src="/blog/images/max/800/1-ganikicyj5jrqkim_mvs_g.png" caption="Source (Gartner)[https://blogs.gartner.com/smarterwithgartner/files/2017/06/BusinessEcosystem_Infographic.png]" >}}
+{{<figure src="/images/max/800/1-ganikicyj5jrqkim_mvs_g.png" caption="Source (Gartner)[https://blogs.gartner.com/smarterwithgartner/files/2017/06/BusinessEcosystem_Infographic.png]" >}}
 
 If we follow this analogy, it is clear that the platform team has way less control of who is using their API and what their goal or business model is.
 
@@ -92,11 +92,11 @@ The ecosystem mental model is also quite interesting when considering the yearly
 
 ### Finite game vs infinite game analogy
 
-{{<figure src="/blog/images/max/800/1-6btgveqcjih39w5yesq8tg.jpg" caption="Image from [The Planning Center](https://www.theplanningcenter.com/)" >}}
+{{<figure src="/images/max/800/1-6btgveqcjih39w5yesq8tg.jpg" caption="Image from [The Planning Center](https://www.theplanningcenter.com/)" >}}
 
 Some games are finite. Good examples include Asteroid, Tetris, Donkey Kong and more generically games with fixed gameplay and with a clear and singular goal. One can progress and become more and more proficient at these games however, the end game, winning, is known in advance and does not evolve. This would be a good analogy for a singular product.
 
-{{<figure src="/blog/images/max/800/1-b6f6imgovzfuejqclx-v1w.jpg" caption="Inspired by [The Planning Center](https://www.theplanningcenter.com/)" >}}
+{{<figure src="/images/max/800/1-b6f6imgovzfuejqclx-v1w.jpg" caption="Inspired by [The Planning Center](https://www.theplanningcenter.com/)" >}}
 
 Compare these games to something like Minecraft where players can contribute to the world, define a new world with completely different rules and where winning is not even defined!
 
@@ -112,7 +112,7 @@ Another powerful tool used by the platform is the API as well as the intrinsic A
 
 As platform mature and gather user demand, this stimulates more partners to join the platform. Each of these partners is providing value and extracting good revenue in return.
 
-{{<figure src="/blog/images/max/800/1-zjz2kvs05kd8qei9cdfp9w.jpg" caption="Value creation as compounded interest from a platform user using three different partner&nbsp;apps." >}}
+{{<figure src="/images/max/800/1-zjz2kvs05kd8qei9cdfp9w.jpg" caption="Value creation as compounded interest from a platform user using three different partner&nbsp;apps." >}}
 
 For instance, in the schema above, particular user benefits from three different apps. Each app is installed at a different point in time. Each app is its own product and provides additional value as new functionalities are added to these apps to better fit their customer needs. The platform capture also a share of the value but, ultimately, a platform redistribute the value to partners more and more, capturing less value than the aggregated partners.
 
