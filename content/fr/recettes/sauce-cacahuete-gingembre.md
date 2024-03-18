@@ -6,7 +6,7 @@ featured_image: ""
 description: ""
 ---
 
-### Ingrédients:
+## Ingrédients:
 
 - 4 c. à s. de beurre de cacahuètes
 - 1c. à c. de gingembre frais râpé
@@ -17,13 +17,13 @@ description: ""
 - 3 c. à s. d'eau
 - 2 c. à s. d'aminos de noix de coco (si pas disponible, remplacer par de la sauce soja)
 
-### Instructions:
+## Instructions:
 
 - Tout mélanger
 - Faire chauffer à feu doux
 - Ajouter au besoin de l’eau pour contrôler la consistance
 
-### Que manger avec cette sauce? 
+## Que manger avec cette sauce? 
 
 Une fois la sauce prête ajouter, au choix (ou les 2) :  
 

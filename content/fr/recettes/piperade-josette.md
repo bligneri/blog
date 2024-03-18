@@ -6,7 +6,7 @@ featured_image: ""
 description: ""
 ---
 
-### Ingrédients:
+## Ingrédients:
 
 - 600 g d'oignons
 - 1.5 kg de poivrons longs (piments en québécois)
@@ -14,7 +14,7 @@ description: ""
 - Piment d'espelette (en poudre)
 - Sel
 
-### Préparation:
+## Préparation:
 
 1. Tomates:
  1. Faire blanchir les tomates (les plonger dans l'eau bouillante quelques minutes0
@@ -33,6 +33,6 @@ Truc : tracer une croix avec un couteau pointu sur l’envers des tomates avant 
 6. Ajouter le piment d'Espelette (poudre) et les épices
 7. Se prépare idéalement la veille et se bonifie lorsque réchauffé
 
-### Accompagnement
+## Accompagnement
 
 Riz ou d’autres céréales (quinoa, boulgure, etc.)

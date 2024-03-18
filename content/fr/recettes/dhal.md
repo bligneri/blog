@@ -6,7 +6,7 @@ featured_image: ""
 description: ""
 ---
 
-### Ingrédients:
+## Ingrédients:
 
 - 400 g de lentilles corail (2 tasses)
 - 1/2 l de bouillon de légumes (2 tasses)
@@ -16,7 +16,7 @@ description: ""
 - 3 gousses d'ail ou plus
 - 1/2 citron vert ou jaune
 
-### Épices
+## Épices
 
 - 1 cuillère à café de cumin
 - 1 cuillère à soupe de poudre de curry
@@ -24,7 +24,7 @@ description: ""
 - 1 cuillère à café de gingembre en poudre
 - Sel et poivre au goût
 
-### **Instructions**
+## Instructions
 
 - Faites chauffer une grande casserole avec un fond d’eau
 - Dès que l’eau frémis, ajoutez-y les oignons ou échalotes et remuez jusqu'à ce qu'ils dorent (4 à 5 minutes).
@@ -39,7 +39,7 @@ description: ""
     - Note: c’est encore meilleur réchauffé / le lendemain ;-)
 - Pressez la moitié du citron et remuez
 
-### Accompagnement:
+## Accompagnement:
 
 - Riz ou d'autres céréales (quinoa, boulgure, etc.)
 - Ajoutez du vert, par exemple:

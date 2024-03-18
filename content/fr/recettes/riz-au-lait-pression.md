@@ -19,6 +19,11 @@ description: ""
 - Bien mélanger
 - Mettre à cuire 19 minutes pression élevée (Instat Pot ou équivalent)
 
+## Variantes :
+- trois cuillers a thé d'eau de fleur d'oranger à la place de la vanille...
+- deux cuillers à thé de cannelle à la place de la vanille
+- remplacer une partie du lait par du lait de coco
+
 ## Notes:
 
 - Une quantité pour 2-3 personnes gourmandes
