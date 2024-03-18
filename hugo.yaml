@@ -34,6 +34,8 @@ languages:
       main:
         - name: Blog
           pageRef: /post/
+        - name: Recettes
+          pageRef: /recettes/
         - name: M'engager
           pageRef: /service
         - name: Me contacter
