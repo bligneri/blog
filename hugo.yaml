@@ -1,9 +1,9 @@
-baseURL: ./blog/
+#baseURL: "./"
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 theme: ananke
 pagination: 12
-#canonifyurls: true
+canonifyurls: true
 #enableMissingTranslationPlaceholders: true
 
 params:
