@@ -10,7 +10,7 @@ title = "Radical + Optimist"
 
 +++
 
-{{< figure src="1-npvpfjnbsxpsmojpne00wa.jpg" caption="The benefits of optimism 👍" >}}
+{{< figure src="1-npvpfjnbsxpsmojpne00wa.jpg" caption="Some benefits of optimism 👍" >}}
 
 
 ### Why being optimistic?
