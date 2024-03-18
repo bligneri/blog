@@ -10,6 +10,10 @@ title = "Radical + Optimist"
 
 +++
 
+Test22
+
+{{< figure src="/blog/images/max/800/1-npvpfjnbsxpsmojpne00wa.jpg" >}}
+
 
 ### Why being optimistic?
 
