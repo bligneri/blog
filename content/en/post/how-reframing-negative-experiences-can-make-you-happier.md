@@ -2,7 +2,7 @@
 date = 2019-12-27T05:53:53Z
 description = ""
 draft = false
-image = "/images/max/800/1-wly7ecrymrcz1xn_y3gqiw.jpg"
+featured_image = "/images/max/800/1-wly7ecrymrcz1xn_y3gqiw.jpg"
 slug = "how-reframing-negative-experiences-can-make-you-happier"
 summary = "A guide for learning from tough situations rather than simply ruminating on them"
 tags = ["Psychology", "How-to", "Optimist"]

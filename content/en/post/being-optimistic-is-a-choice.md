@@ -2,7 +2,7 @@
 date = 2019-03-23T22:57:33Z
 description = ""
 draft = false
-image = "/images/max/800/1-jwhwlklfdjsbqoy3nwsn2a.jpg"
+featured_image = "/images/max/800/1-jwhwlklfdjsbqoy3nwsn2a.jpg"
 slug = "being-optimistic-is-a-choice"
 summary = "Personal challenge: make a conscient effort to look at a negative situation and find a positive outcome…\n\nOptimism in practice"
 tags = ["Psychology", "Optimism", "How-to"]

@@ -2,7 +2,7 @@
 date = 2016-08-16T19:38:12Z
 description = ""
 draft = false
-image = "/images/max/2560/1-nyws_ybjb9cvacimzxaesw.png"
+featured_image = "/images/max/2560/1-nyws_ybjb9cvacimzxaesw.png"
 slug = "value-chain-in-the-wine-industry"
 summary = "Wine is a complicated industry with a large and complex value chain and many partners, such as winemakers, agents, wholesalers…"
 tags = ["Value Chain", "Wine", "DTC"]

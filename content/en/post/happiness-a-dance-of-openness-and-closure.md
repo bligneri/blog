@@ -2,7 +2,7 @@
 date = 2023-06-16T23:12:04Z
 description = ""
 draft = false
-image = "/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
+featured_image = "/images/2023/06/1-rj0b8tax5-d9ugjymwpiaq-2x-2.jpg"
 slug = "happiness-a-dance-of-openness-and-closure"
 #summary = "Navigating the Rhythms of the Mind"
 tags = ["Happiness", "Optimist", "Psychology"]

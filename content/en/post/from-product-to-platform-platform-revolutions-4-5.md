@@ -2,7 +2,7 @@
 date = 2019-12-02T22:01:01Z
 description = ""
 draft = false
-image = "/images/max/800/1-62vwiweyookbvkbttc59lq.jpg"
+featured_image = "/images/max/800/1-62vwiweyookbvkbttc59lq.jpg"
 slug = "from-product-to-platform-platform-revolutions-4-5"
 summary = "From product to platform: A PM journey\n\nHow platforms can evolve. Tectonic and violent revolution or more subtle and frequent iterations? How the Pareto principle can help make better decisions."
 tags = ["Product Manager", "Platform"]

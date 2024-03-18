@@ -2,7 +2,7 @@
 date = 2016-03-22T19:20:22Z
 description = ""
 draft = false
-image = "/images/max/800/1-nkydczpehbyjukty7ka5ua.png"
+featured_image = "/images/max/800/1-nkydczpehbyjukty7ka5ua.png"
 slug = "how-to-start-a-wine-club"
 summary = "How to start a wine club"
 tags = ["How-to", "DTC", "Wine"]

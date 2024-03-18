@@ -2,7 +2,7 @@
 date = 2019-12-08T22:01:02Z
 description = ""
 draft = false
-image = "/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg"
+featured_image = "/images/max/800/1-lebwe7zjyhgnlnmsukc6ja.jpg"
 slug = "from-product-to-platform-conclusion-5-5"
 summary = "From product to platform: A PM journey"
 tags = ["Product Manager", "Platform"]

@@ -2,7 +2,7 @@
 date = 2019-04-19T16:54:26Z
 description = ""
 draft = false
-image = "/images/max/800/1-rxrjvzbh7hjw4ppoqzti6g.png"
+featured_image = "/images/max/800/1-rxrjvzbh7hjw4ppoqzti6g.png"
 slug = "never-split-the-difference-the-art-of-contextual-questioning-with-respect-and-empathy"
 summary = "A great book to become a better human being"
 tags = ["Book", "Negotiation", "Soft skill"]

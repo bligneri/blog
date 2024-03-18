@@ -2,7 +2,7 @@
 date = 2020-01-18T09:01:01Z
 description = ""
 draft = false
-image = "/images/max/800/1-dvbgmvq7zxh-gvvet9jp0g.png"
+featured_image = "/images/max/800/1-dvbgmvq7zxh-gvvet9jp0g.png"
 slug = "how-to-run-a-why-who-what-how-alignment-session"
 summary = "A simple set of questions to remove ambiguity, build team alignment and prioritize"
 tags = ["How-to", "Product Manager", "Alignment"]

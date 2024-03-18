@@ -2,7 +2,7 @@
 date = 2019-12-26T06:01:01Z
 description = ""
 draft = false
-image = "/images/max/800/1-lmxgumd0phybvfjazbkukw.jpg"
+featured_image = "/images/max/800/1-lmxgumd0phybvfjazbkukw.jpg"
 slug = "one-ring-to-stitch-them-all-and-in-the-land-of-api-bind-them"
 summary = "One Ring to Stitch Them All and in the Land of API Bind Them. GraphQL schema stitching for platform or API PM"
 tags = ["Essay", "GraphQL", "API"]

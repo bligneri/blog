@@ -2,7 +2,7 @@
 date = 2019-12-07T14:06:34Z
 description = ""
 draft = false
-image = "/images/max/800/1-hpa-nvezyxg8rxb21itqbw-2x.jpg"
+featured_image = "/images/max/800/1-hpa-nvezyxg8rxb21itqbw-2x.jpg"
 slug = "how-to-organize-a-great-team-retrospective"
 summary = "Retrospective help teams realize their impact and grow."
 tags = ["How-to", "Product"]

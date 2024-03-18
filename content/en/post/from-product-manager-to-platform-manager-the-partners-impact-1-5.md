@@ -2,7 +2,7 @@
 date = 2019-11-23T04:01:03Z
 description = ""
 draft = false
-image = "/images/max/800/1-a1yyxncgq03-npu9jqczjg.jpg"
+featured_image = "/images/max/800/1-a1yyxncgq03-npu9jqczjg.jpg"
 slug = "from-product-manager-to-platform-manager-the-partners-impact-1-5"
 summary = "Platform Managers listen to the voice of the developer."
 tags = ["Product Manager", "Plaform"]
