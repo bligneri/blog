@@ -1,7 +1,7 @@
 ---
 title: "Riz Au Lait Pression"
 date: 2024-03-18T18:17:39-04:00
-tags: ["Déssert", "InstantPot"]
+tags: ["Dessert", "InstantPot"]
 featured_image: ""
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Riz Au Lait Chantal"
 date: 2024-03-18T18:36:45-04:00
-tags: ["Déssert"]
+tags: ["Dessert"]
 featured_image: ""
 description: ""
 ---
