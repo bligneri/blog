@@ -8,8 +8,8 @@ type: page
 
 Here is how you can reach me (your choice): 
 
-### LinkedIn
+## Option 1: LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/benoitdesligneris/)
 
-### Contact form
+## Option 2: Contact form
 {{< form-contact action="https://formspree.io/f/xrgnaeqp"  >}}

@@ -7,10 +7,10 @@ type: page
 menu: main
 ---
 
-Voici comment me rejoindre (au choix):
+Voici comment me rejoindre:
 
-### LinkedIn
+## Option 1: LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/benoitdesligneris/)
 
-### Formulaire de contact
+## Option 2: Formulaire de contact
 {{< form-contact action="https://formspree.io/f/xrgnaeqp"  >}}

@@ -6,3 +6,5 @@
   translation: Francais
 - id: RadicalOptimist
   translation: RadicalOptimist
+- id: serviceFormPlaceholder
+  translation: Décrivez votre projet ou vos besoins.
