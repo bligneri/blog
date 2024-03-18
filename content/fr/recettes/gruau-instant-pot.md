@@ -1,7 +1,7 @@
 ---
 title: "Gruau Instant Pot"
 date: 2024-03-18T18:57:21-04:00
-tags: ["Petit Déjeuner"]
+tags: ["Petit Déjeuner", "Gruau"]
 featured_image: ""
 description: ""
 ---
