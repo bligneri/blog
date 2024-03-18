@@ -10,9 +10,9 @@ title = "Why should you operate more than one wine club?"
 +++
 
 
-Wine clubs are part of the [Direct to Consumer (DtC) trend](https://dtcwine.net/what-direct-to-consumer-dtc-represents-for-genuine-wine-makers-74f12b52057a#.w6v9rpcv5). They allow the winemaker to send large amounts of wine to a selected wine-lover group that has agreed to put their name on a contract. The larger the club, the larger the revenue stream. Even better, most of the wine club shipments are already paid for!
+Wine clubs are part of the [Direct to Consumer (DtC) trend](what-direct-to-consumer-dtc-represents-for-genuine-wine-makers.md). They allow the winemaker to send large amounts of wine to a selected wine-lover group that has agreed to put their name on a contract. The larger the club, the larger the revenue stream. Even better, most of the wine club shipments are already paid for!
 
-Wine clubs offer great benefits for wineries. Better cash flow, direct contact with customers and no financial dependence on wholesalers. Please see our [article on the value chain in the wine industry](https://dtcwine.net/value-chain-in-the-wine-industry-ba0b2555f7c1#.ai8y31o5e) for more details on these benefits.
+Wine clubs offer great benefits for wineries. Better cash flow, direct contact with customers and no financial dependence on wholesalers. Please see our [article on the value chain in the wine industry](value-chain-in-the-wine-industry.md) for more details on these benefits.
 
 While simplicity is a great concept, operating just one single wine club is not very practical:
 
