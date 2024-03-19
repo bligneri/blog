@@ -11,13 +11,12 @@ enableInlineShortcodes: true
 
 params:
   show_reading_time: true
-  ananke_social:
+  ananke_socials:
   - name: linkedin
     url: https://www.linkedin.com/in/benoitdesligneris/
   - name: github
     url: https://github.com/bligneri
     label: My GitHub Account
-    color: '#ff6800'
 
 languages:
   fr:
