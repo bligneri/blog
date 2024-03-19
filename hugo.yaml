@@ -9,6 +9,12 @@ canonifyurls: true
 enableInlineShortcodes: true
 #enableMissingTranslationPlaceholders: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   show_reading_time: true
   ananke_socials:
