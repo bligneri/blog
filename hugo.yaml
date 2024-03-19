@@ -19,8 +19,6 @@ params:
     label: My GitHub Account
     color: '#ff6800'
 
-
-
 languages:
   fr:
     contentDir: content/fr
