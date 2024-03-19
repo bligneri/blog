@@ -1,7 +1,7 @@
 ---
 title: "Pate a Tarte Classique"
 date: 2024-03-19T15:59:17-04:00
-tags: []
+tags: ["Dessert"]
 featured_image: ""
 description: ""
 ---
