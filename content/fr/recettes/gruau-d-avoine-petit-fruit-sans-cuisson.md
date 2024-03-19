@@ -1,5 +1,5 @@
 ---
-title: "Gruau D Avoine Petit Fruit Sans Cuisson"
+title: "Gruau d'avoine aux petit fruit sans cuisson"
 date: 2024-03-18T19:10:28-04:00
 tags: ["Petit Déjeuner", "Gruau"]
 featured_image: ""

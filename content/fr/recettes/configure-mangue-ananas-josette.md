@@ -1,5 +1,5 @@
 ---
-title: "Configure Mangue Ananas Josette"
+title: "Configure mangue ananas Josette"
 date: 2024-03-18T19:09:48-04:00
 tags: ["Confiture"]
 featured_image: ""

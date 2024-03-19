@@ -1,5 +1,5 @@
 ---
-title: "🧇 Gauffres Vegan Arthur 🧇"
+title: "🧇 Gauffres vegan Arthur 🧇"
 date: 2024-03-18T18:43:14-04:00
 tags: ["Dessert"]
 featured_image: ""

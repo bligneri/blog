@@ -1,5 +1,5 @@
 ---
-title: "Aiguillettes D Oranges"
+title: "Aiguillettes d'oranges"
 date: 2024-03-18T19:10:42-04:00
 tags: ["Confiserie"]
 featured_image: ""

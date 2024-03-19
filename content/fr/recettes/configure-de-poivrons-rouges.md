@@ -1,5 +1,5 @@
 ---
-title: "Configure De Poivrons Rouges"
+title: "Configure de poivrons rouges"
 date: 2024-03-18T19:03:05-04:00
 tags: ["Configure"]
 featured_image: ""

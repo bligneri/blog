@@ -1,5 +1,5 @@
 ---
-title: "Croquants Aux Amandes Chantal"
+title: "Croquants aux amandes Chantal"
 date: 2024-03-18T19:03:58-04:00
 tags: ["Dessert"]
 featured_image: ""

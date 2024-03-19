@@ -1,5 +1,5 @@
 ---
-title: "Super Simple Mousse Au Chocolat"
+title: "Mousse au chocolat super simple"
 date: 2024-03-18T19:10:10-04:00
 tags: ["Dessert", "Mousse", "Chocolat"]
 featured_image: ""

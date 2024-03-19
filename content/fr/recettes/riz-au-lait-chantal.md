@@ -1,5 +1,5 @@
 ---
-title: "Riz Au Lait Chantal"
+title: "Riz au lait Chantal"
 date: 2024-03-18T18:36:45-04:00
 tags: ["Dessert"]
 featured_image: ""

@@ -1,5 +1,5 @@
 ---
-title: "Pain Aux Bananes Vegan Celine"
+title: "Pain aux bananes vegan Celine"
 date: 2024-03-18T18:56:22-04:00
 tags: ["Dessert"]
 featured_image: ""

@@ -1,5 +1,5 @@
 ---
-title: "Salade De Chou Fleur Celine"
+title: "Salade de chou-fleur Céline"
 date: 2024-03-18T19:01:52-04:00
 tags: ["Entrée"]
 featured_image: ""

@@ -1,5 +1,5 @@
 ---
-title: "Risotto Vegan Vin"
+title: "Risotto vegan au vin"
 date: 2024-03-18T19:10:00-04:00
 tags: ["Rizotto"]
 featured_image: ""

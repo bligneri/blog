@@ -1,5 +1,5 @@
 ---
-title: "Sauce Cacahuete Gingembre"
+title: "Sauce cacahuète-gingembre"
 date: 2024-03-18T18:27:53-04:00
 tags: ["Sauce", "Cacahuète", "Gingembre", "Plat Principal"]
 featured_image: ""

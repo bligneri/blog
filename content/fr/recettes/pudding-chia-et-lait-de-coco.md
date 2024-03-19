@@ -1,5 +1,5 @@
 ---
-title: "Pudding Chia Et Lait De Coco"
+title: "Pudding chia et lait de coco"
 date: 2024-03-18T18:54:10-04:00
 tags: ["Petit Déjeuner", "Dessert"]
 featured_image: ""

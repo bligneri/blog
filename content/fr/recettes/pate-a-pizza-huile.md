@@ -1,5 +1,5 @@
 ---
-title: "Pate a Pizza Huile"
+title: "Pate à pizza avec huile"
 date: 2024-03-18T19:09:25-04:00
 tags: ["Pate", "Pizza"]
 featured_image: ""
