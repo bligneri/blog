@@ -15,7 +15,7 @@ draft: false
 <div id="search"></div>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
+        new PagefindUI({ element: "#search", showSubResults: true, excerptLength: 30, debounceTimeoutMs: 500 });
     });
 </script>
 {{< /rawhtml >}}
