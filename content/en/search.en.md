@@ -1,5 +1,5 @@
 ---
-title: Search RadicalOptimist.org
+title: Search the Site
 omit_header_text: true
 type: page
 description: Find anything on the website.
