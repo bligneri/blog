@@ -1,0 +1,71 @@
+baseURL = "./"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+theme = ["ananke", "hugo-embed-pdf-shortcode"]
+pagination = 12
+canonifyurls = true
+enableInlineShortcodes = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  show_reading_time = true
+
+[[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/benoitdesligneris/"
+
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/bligneri"
+  label = "My GitHub Account"
+
+[languages.fr]
+  contentDir = "content/fr"
+  disabled = false
+  languageCode = "fr-ca"
+  languageDirection = "ltr"
+  languageName = "Francais"
+  title = "Optimiste Radical"
+  weight = 2
+
+  [[languages.fr.menus.main]]
+    name = "Blog"
+    pageRef = "/post/"
+  [[languages.fr.menus.main]]
+    name = "Recettes"
+    pageRef = "/recettes/"
+  [[languages.fr.menus.main]]
+    name = "M'engager"
+    pageRef = "/service"
+  [[languages.fr.menus.main]]
+    name = "Me contacter"
+    pageRef = "/contact"
+  [[languages.fr.menus.main]]
+    name = "Recherche"
+    pageRef = "/search"
+    url = "/images/search.svg"
+
+[languages.en]
+  contentDir = "content/en"
+  disabled = false
+  languageCode = "en-ca"
+  languageDirection = "ltr"
+  languageName = "English"
+  title = "Radical Optimist"
+  weight = 1
+
+  [[languages.en.menus.main]]
+    name = "Blog"
+    pageRef = "/post/"
+  [[languages.en.menus.main]]
+    name = "Hire me"
+    pageRef = "/service"
+  [[languages.en.menus.main]]
+    name = "Contact me"
+    pageRef = "/contact"
+  [[languages.en.menus.main]]
+    name = "Search"
+    pageRef = "/search"
+
