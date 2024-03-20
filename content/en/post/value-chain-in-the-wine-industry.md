@@ -73,6 +73,5 @@ To complete this description of the sales channels accessible to wineries, I wou
 - What can be done to help boutique wineries reach their market?
 - Why has eCommerce not yet impacted the wine industry?
 
-### Feedback is a gift
 {{< feedback-en >}}
 

@@ -112,7 +112,7 @@ Retrospectives are an essential agile ritual. Retrospectives offer quiet self-re
 * recognize the team’s culture, rituals, and values;
 * carve-up changes that the team wants to pursue to improve to have more fun and deliver more value faster in the process.
 
-### Feedback is a gift
+### Thanks
 
 Thanks to [Mike Grigoriev](https://medium.com/u/9e7d880f3366) for the excellent Shipping Profile retro.
 

@@ -177,6 +177,5 @@ Do you use another framework, how does it compare/relate to the MoSCoW one to bu
 * [MoSCoW template](https://docs.google.com/spreadsheets/d/1yWYmqaSWoEO03yV-Q2rtp2TJj_yU7SVb-TCZOZ-_FfA/edit?folder=1wKKzblC3vCR5g5etwaBzEaljGXFIx1fS#gid=0)
 * [Wikipedia article](https://en.wikipedia.org/wiki/MoSCoW_method) on the MoSCoW prioritization method
 
-### Feedback is a gift
 {{< feedback-en >}}
 

@@ -127,9 +127,7 @@ Use this incredible experience that is life as a learning opportunity to change 
 
 ---
 
-#### Feedback is a gift
+<!-- Would you mind sharing how you view the world, and which images/mental model you use to grow your area of control to make it match your area of responsibility? -->
 
-Would you mind sharing how you view the world, and which images/mental model you use to grow your area of control to make it match your area of responsibility?
-
-{{ < feedback-en >}}
+{{< feedback-en >}}
 

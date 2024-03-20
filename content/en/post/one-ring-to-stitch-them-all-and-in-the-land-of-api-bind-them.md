@@ -82,6 +82,5 @@ Many thanks to [Nicolas Lupien](https://medium.com/u/ca4d76503477) for early fee
 * What do you dislike about GraphQL?
 * Do you use GraphQL for your product / platform. Why and … why not ?
 
-### Feedback is a gift
 {{< feedback-en >}}
 

@@ -97,7 +97,5 @@ It will ensure that you will develop meaningful relationships and create learnin
 
 It will also and protect you and your team from our current millennium’s professional disease: burn-out.
 
-### Feedback is a gift
-
 {{< feedback-en >}}
 

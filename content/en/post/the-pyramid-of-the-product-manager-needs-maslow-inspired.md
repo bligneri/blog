@@ -51,7 +51,5 @@ In follow-up posts, we will continue to explore this model both in a practical w
 
 An initial question inspired this article by [Ben Mosior](https://twitter.com/BenMosior) in the [PMHQ](https://www.productmanagerhq.com) community.
 
-### Feedback is a gift
-
 {{< feedback-en >}}
 

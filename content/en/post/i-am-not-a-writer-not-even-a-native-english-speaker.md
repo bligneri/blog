@@ -119,6 +119,5 @@ My experiences this year also highlighted the importance of editing my stories t
 
 I am truly humbled by how many hours readers have spent on my imperfect work.
 
-### Feedback is a gift
 {{< feedback-en >}}
 

@@ -82,7 +82,4 @@ Once a team has the expertise, there is no turning back: this is the curse of kn
  1. fresh eyes either from new team members, interns and other specialties
  2. testing with non-users
 
-### Feedback is a gift
 {{< feedback-en >}}
-
-

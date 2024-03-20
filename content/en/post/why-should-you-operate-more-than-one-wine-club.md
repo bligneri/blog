@@ -32,6 +32,5 @@ All in all, because your brand is unique, you should create a unique wine club s
 
 To connect with your best possible supporters, and your members, you should operate various wine clubs tailored to your customer needs.
 
-### Feedback is a gift
 {{< feedback-en >}}
 
