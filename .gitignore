@@ -5,3 +5,4 @@ public/*
 *.lock
 resources/_gen/*
 *.zip
+node_modules
