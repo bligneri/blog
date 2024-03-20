@@ -11,13 +11,7 @@ title = "From Product to Platform — Conclusion (5/5)"
 +++
 
 
-#### Summary of lessons learned in the land of platforms
-
-### From Product to Platform — Conclusion (5/5)
-
-#### From product to platform: A PM journey
-
-### Introduction
+## Summary of lessons learned in the land of platforms
 
 ### Complete series: 
 
@@ -71,7 +65,7 @@ For any decision, always use multiple [mental models](from-product-to-platform-p
 
 ---
 
-### Conclusion
+## Conclusion
 
 At a human experience level, I don’t believe that being a PM or PPM makes any difference. One is not intrinsically more fulfilling than the other. They both have their own set of challenges.
 
@@ -93,11 +87,11 @@ This feedback will correlate, or not, with the kool-aid that one tends to drink 
 
 As a PPM, you will be in a unique position to bridge the gap between these two versions of reality and improve the ecosystem.
 
-### Complete series: 
+## Complete series: 
 1. [Platform Product Manager: Partner (1/5)](from-product-manager-to-platform-manager-the-partners-impact-1-5.md)
 1. [Platform Product Manager: Complexity (2/5)](from-product-to-platform-increased-complexity-2-5.md)
 1. [Platform Product Manager: Mental Models (3/5)](from-product-to-platform-platform-mental-models-3-5.md)
 1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
 1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-{{% feedback-en %}}
+{{< feedback-en >}}

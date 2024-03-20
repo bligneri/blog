@@ -10,14 +10,9 @@ title = "From Product to Platform — Platform Revolutions (4/5)"
 
 +++
 
+{{< figure src="/images/max/800/1-62vwiweyookbvkbttc59lq.jpg" caption="Platform tectonic shifts alter the partner+platform landscape very rapidly" >}}
 
-#### Platform tectonic shifts alter the partner+platform landscape very rapidly
-
-### From Product to Platform — Platform Revolutions (4/5)
-
-#### From product to platform: A PM journey
-
-### Introduction
+## Introduction
 
 This post is the fourth part in a series of five regarding platforms and the key differences with products.
 
@@ -25,7 +20,7 @@ This post is the fourth part in a series of five regarding platforms and the key
 1. [Platform Product Manager: Complexity (2/5)](from-product-to-platform-increased-complexity-2-5.md)
 1. [Platform Product Manager: Mental Models (3/5)](from-product-to-platform-platform-mental-models-3-5.md)
 
-### Revolutions or evolution?
+## Revolutions or evolution?
 
 Most of the time, a platform evolution is more subtle than a product evolution. One will have to read all the API release notes to try to make sense of the general platform direction. Different teams are in charge of these evolutions. Each team has its expected outcomes and business realities, which makes analyzing these changes even more challenging. Doing this analysis from outside of the platform organization is even harder because the analyst lacks context. We will discuss these subtle evolutions in the subsequent section.
 
@@ -59,7 +54,7 @@ In retrospect, Internet Explorer was immensely successful even if its user inter
 
 This tectonic shift triggered a lawsuit: the United States of America vs Microsoft. The US accused Microsoft of breaking customer consent by bundling Internet Explorer with the operating system.
 
-#### Impact on the partner ecosystem
+## Impact on the partner ecosystem
 
 The effect on the partner ecosystem was terrible: Netscape was losing the war on both the server-side and the client-side aspects of the Web server and Web browser. From a dominant position (>90%) during the 1990s, it was gone by 2002. Microsoft had won the browser war … on the desktop.
 
@@ -87,7 +82,7 @@ Once again, Windows the platform delivers what its users expected for years: a c
 
 Microsoft is an underdog in these markets. Without a vast user base, Microsoft can evolve faster, meet new user needs, delight users in new ways, and, if possible, disrupt the current equilibrium.
 
-#### Platform Revolution
+## Platform Revolution
 
 Based on this example, we can come up with some sound conclusions and advice for both platforms and partners of these platforms.
 
@@ -97,7 +92,7 @@ Based on this example, we can come up with some sound conclusions and advice for
 
 In general, it is fair to assume that platforms have no interest in disrupting their ecosystems violently. As a consequence, they rely on this strategy mainly because they missed some critical strategic decisions. **** The tectonic shift is a violent o course-correct. It is a manifestation of the decision to stop relying solely on the partner ecosystem for key and core functionalities.
 
-### Platform iterations
+## Platform iterations
 
 This type of iterations is way more frequent than the tectonic shifts described above. Iterations are the primary way platforms evolve and keep up with their user needs.
 
@@ -117,7 +112,7 @@ In general, platforms avoid tectonic shifts. Platforms prefer an **** iterative 
 
 Strategy shifts, as well as legal or financial imperatives, are the root cause of tectonic shifts. Examples include a partner extracting to much value, a partner abusing its dominant position within the partner ecosystem or an existential threat from outside the platform ecosystem. In these situations, the platform needs to come up rapidly with a good enough solution and commit important resources to build, maintain and support the new functionality.
 
-#### The Pareto principle applied to the partner and platform ecosystem
+### The Pareto principle applied to the partner and platform ecosystem
 
 The [Pareto law](https://en.wikipedia.org/wiki/Pareto_principle) states that for many events, 80% of the effects come from 20% of the causes.
 
@@ -127,7 +122,7 @@ This rule can be super helpful in deciding which feature is core to the platform
 
 Everything else should be implemented as an API so that partners can provide the remaining functionalities that are critical for specific users or markets. Quite often, these functionalities are exclusive to a small percentage of users. They are super-valuable and indispensable. Usually, these functionalities are deemed more advanced, are often more complicated than the platform and are also harder to implement, set-up and support. Most of the time, most of these functionalities are useless for most of the platform users.
 
-#### Pareto law is only one mental model of many…
+### Pareto law is only one mental model of many…
 
 While the Pareto principle is super useful to capture the value creation aspects of the platform and partners, be careful to look at the complete picture. Use all the pertinent mental models (see: [Part 3 — Mental models](from-product-to-platform-platform-mental-models-3-5.md)) for platforms.
 
@@ -144,5 +139,5 @@ As always, consider the desirability and feasibility and viability of these deci
 1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
 1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-{{% feedback-en %}}
+{{< feedback-en >}}
 

@@ -11,13 +11,13 @@ title = "From Product to Platform — Platform Mental Models (3/5)"
 +++
 
 
-#### The journey of a Product manager: from product to platform.
+## Introduction
 
 In the [first post](from-product-manager-to-platform-manager-the-partners-impact-1-5.md), I described the importance of the partners in a platform world. In the [second post](from-product-to-platform-increased-complexity-2-5.md), I described why a platform is more complex. This third post is about mental models.
 
 The Product Manager role is abbreviated as PM while the Platform Product Manager one is abbreviated as PPM
 
-### Mental models
+## Mental models
 
 We will review four mental models that I have consistently found useful when thinking about platforms.
 
@@ -25,7 +25,7 @@ Those are practical models that can also be useful for PM as lots of successful 
 
 I will use this mental model to highlight the main differences between a platform and a product. This will help me establish my main thesis: platform development is more unpredictable than product development.
 
-#### Platform: Increased unpredictability
+### Platform: Increased unpredictability
 
 A key component of the PM role is to increase predictability. This is done using two main tools:
 
@@ -34,7 +34,7 @@ A key component of the PM role is to increase predictability. This is done using
 
 Let’s start with the first mental model.
 
-### Partners knowledge is a superset of the platform team knowledge
+## Partners knowledge is a superset of the platform team knowledge
 
 The notion of subset and superset is a mathematical concept that applies to pretty much anything. For instance, we have seen above that the world includes all the mental models and much more: real living beings, planets, stars and so on.
 
@@ -70,7 +70,7 @@ Everything that is common to lots of partners, which has a long term future and 
 
 Everything else should be built as an API that partners can now leverage to create value in their own domain and compete with each other to offer the best possible value to the platform customers.
 
-### Platforms are an ecosystem
+## Platforms are an ecosystem
 
 A product can be seen as a plant which is growing on a certain are on planet earth. A platform is similar to a complete ecosystem operating on the same planet. Each partner is now a plant or an animal operating in this ecosystem. Some of the platform partners will become their fiercest competitors, some are already a competitor, others are contributing to multiple ecosystems helping users to switch from one ecosystem to the other, etc.
 
@@ -90,7 +90,7 @@ In the ecosystem mental model, the PPM role is very alike to the role of a garde
 
 The ecosystem mental model is also quite interesting when considering the yearly and quarterly business cycles. The season's analogy should be used by the PPM in order to plan the year ahead. I recommend defining what needs to be shipped in order to launch at the annual developer conference. The PPM can now use this fixed date as a forcing function inside his own organization to get alignment and have well-identified key milestones.
 
-### Finite game vs infinite game analogy
+## Finite game vs infinite game analogy
 
 {{<figure src="/images/max/800/1-6btgveqcjih39w5yesq8tg.jpg" caption="Image from [The Planning Center](https://www.theplanningcenter.com/)" >}}
 
@@ -108,7 +108,7 @@ Of course, in the business world, a powerful alignment tool is … money. It is 
 
 Another powerful tool used by the platform is the API as well as the intrinsic API limits that players can use. These APIs define the boundaries between the world and the players. The API limits are not only technical. They include numerous dimensions: legal, commercial, data, service level agreement, etc.
 
-### The compounded interests analogy
+## The compounded interests analogy
 
 As platform mature and gather user demand, this stimulates more partners to join the platform. Each of these partners is providing value and extracting good revenue in return.
 
@@ -131,5 +131,5 @@ In this model, the PPM main role is to maximize value creation. As this is a fin
 1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
 1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-{{% feedback-en %}}
+{{< feedback-en >}}
 

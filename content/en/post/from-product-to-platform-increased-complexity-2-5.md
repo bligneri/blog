@@ -11,13 +11,13 @@ title = "From Product to Platform — Increased Complexity (2/5)"
 +++
 
 
-#### The journey of a Product manager: from product to platform.
+## Introduction
 
 In the [precedent post](from-product-manager-to-platform-manager-the-partners-impact.md), I described the importance of the partners in a platform world. Now let's have a look at complexity, once again, trying to highlight the differences between product and platform development.
 
 The Product Manager role is abbreviated as PM while the Platform Product Manager one is abbreviated as PPM
 
-### Technology
+## Technology
 
 {{ < figure src="/images/max/800/1-xxi-kg18lipn4xcfzmoqqq.jpg" caption="Code complexity / Photo by [Chris Ried](https://unsplash.com/@cdr6934)" >}}
 
@@ -27,19 +27,19 @@ Typically, it means that you should be more on the technical side of things. You
 
 You should be able to read/parse JSON, make read/write REST and GraphQL queries and mutations. If possible, with a developer, you should also build an app and be able to consume and teso that you can.
 
-### API first?
+## API first?
 
 While this approach could make sense for a product, I am not sure this is recommended for a platform. A platform is a complex set of API(s) and features. Not being able to experience the UI as you use a brand new API will most certainly create misalignment and generate poor quality feedback from partners.
 
 Said differently, a published API without any corresponding UI artifacts can be very abstract and quite hard to understand both for partners and for the product team.
 
-#### Gather partners' API feedback instead
+### Gather partners' API feedback instead
 
 Even if API first is not an option, the API first principle can be respected. You absolutely should prototype your API and engage with partners before engaging with your users. You could also provide a simple pdf document with the planned API calls and payload. Ultimately, publishing a developer preview version of your queries (read-only API) will also make it more concrete and testable for partners. As soon as it is reasonably bug-free and functional (even if with limited scope), releasing an alpha and then the beta version of the API is recommended.
 
 Feedback gathering on the API will allow you to create a more compelling vision of the API + product as well as clearly delineate what are the platform functionalities are, what functionalities are shared with partners and which one are exclusive to partners.
 
-#### Backward compatibility
+### Backward compatibility
 
 One of your primary responsibility, as a PPM, is to remain backward compatible. If you can not achieve backward compatibility, this could create chaos among your partners. An unknown number of apps could fail, causing a massive loss of trust (and value!) between the partners, the users and the platform.
 
@@ -61,7 +61,7 @@ Some risk mitigation strategies you could use:
 * Ship the updated API one partner at a time and monitor the roll-out
 * Have a documented and tested roll-back plan
 
-#### Product launch is more complex
+### Product launch is more complex
 
 When new functionalities in the platform have launched that overlap with the partners offering, the PPM has to make sure that partners will adopt new API.
 
@@ -73,13 +73,13 @@ The carrot is my favorite approach. As a PPM, your goal should be to make the ne
 
 The platform must handle each partner with equanimity. Make sure you support and engage all other partners. Be super explicit about the timeline for launch, early adoption and offer all partners the possibility to shine and be an early adopter.
 
-#### Legal and financial complexities
+### Legal and financial complexities
 
 API usage requires a social contract to be signed between the platform and the partners building apps using the new or updated API. Each API is not created equal in terms of monetization, revenue-sharing, and even business model. This can create headaches and complexity and even kill projects as legal agreements are rejected by both parties. This can affect the entire feasibility of a new API because of the regulation or the inability to find a revenue-sharing agreement with partners.
 
 Once an app is shipped and used, loopholes can be discovered linked to the revenue sharing terms between the platform and the app. Some apps, with a large user base, can now impose their will and hold lots of power because they own a large component of the user experience (for some users). This context has to be perfectly understood by the PPM especially if she/he plans to iterate/change this API. Most of the time, this means meetings with the finance team, the commercial team, doing thorough business and market analysis as well as numerous alignment and negotiation rounds with partners.
 
-#### Partner/platform team:
+### Partner/platform team:
 
 UX teams are not necessarily eager to consider partner research as their core responsibility. This can be even more acute in organizations with a “platform team” or “partner team” who own the relationship between the platform and the partners.
 
@@ -87,7 +87,7 @@ As always, a PM must use their judgment before deciding what is best for the pro
 
 Form your own opinion on who can help you the best to understand the problem space and do not hesitate to reach out directly to partners. As we will see in the next section (mental model), they have much more knowledge than you do in their own field of expertise.
 
-#### Business metrics and internal alignment
+### Business metrics and internal alignment
 
 When a partner/platform team exists, this team will tend to centralize the revenues from the partners. It can then become super hard to obtain funding because on one end the product team is building new API that will generate new revenues and on the other hand the platform team is considering these revenues part of their revenue stream. This could create a vicious circle because product team will then stop investing into the platform and only focus on actions that impacts their revenues and profitability.
 
@@ -99,7 +99,7 @@ This is even more critical if you plan to change the revenue-share agreement wit
 
 Don't wait for these events to happen: define the financial impact early on and work with these teams to make sure your assumptions and modeling are correct. Have a deck ready to explain all this in 5 minutes with a clear recommendation that you can deliver while in an elevator.
 
-#### More complex stakeholder management
+### More complex stakeholder management
 
 The PPM operates in an imposed environment. The product team are users and not owners of the API technological layer, API tooling, API release, and approval processes, API go to market, the acceptable term of use, API limits, agreement with partners, etc.
 
@@ -114,5 +114,5 @@ All these new players and approval processes can cause setbacks and delays. This
 1. [Platform Product Manager: Revolution and Evolution (4/5)](from-product-to-platform-platform-revolutions-4-5.md)
 1. [Platform Product Manager: Conclusion (5/5)](from-product-to-platform-conclusion-5-5.md)
 
-{{% feedback-en %}}
+{{< feedback-en >}}
 

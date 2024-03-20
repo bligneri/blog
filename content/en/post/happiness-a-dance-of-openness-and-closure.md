@@ -11,7 +11,7 @@ title = "Happiness: a Dance of Openness and Closure"
 +++
 
 
-### Navigating the Rhythms of the Mind
+## Navigating the Rhythms of the Mind
 
 {{< figure src="/images/image.png" title="An elephant at sunset by Aarón Blanco Tejedor on Unspash" caption="Photo by Aarón Blanco Tejedor on Unspash" >}}
 
@@ -45,7 +45,7 @@ Our open & closed states relate to Maslow's pyramid of needs. While our fight or
 
 {{< figure src="/images/max/800/1-rj0b8tax5-d9ugjymwpiaq-2x.jpg" title="Schema of Maslow's needs with the open and closed experiences." >}}
 
-### Good news: open and closed states do not last!
+## Good news: open and closed states do not last!
 
 As you all know by now, these experiences (whether open or closed) are all temporary. You can remember when you were happy or a pleasant experience from yesterday when listening to a podcast. Or your latest crisis at work or with a close friend or family member.
 
@@ -53,7 +53,7 @@ In our life, we alternate between these extremes. In one state, our self disappe
 
 > You only have open, closed and in-between experiences.
 
-# What is Happiness?
+## What is Happiness?
 
 Our mind operates within two primary paradigms: openness and closure. Openness allows us to discover our interconnectedness with the universe. Closure compels us to protect ourselves from potential dangers: it limits our perception and confines us to negative patterns to protect ourselves from real or imaginary threats.
 

@@ -10,6 +10,7 @@ title = "Being optimistic is a choice"
 
 +++
 
+## Definition
 
 Here is the dictionary definition: **an optimist is one who usually expects a favourable outcome**. While this does not seem like much, words are essential.
 
@@ -20,13 +21,19 @@ This definition is quite helpful because, as often, it is very nuanced. This is 
 
 The most efficient lifelong lessons come with a direct and very real immediate negative outcome. For instance: a car accident, sports injury, significant failure, or losing a loved one. Optimists will consider all aspects of this event and redefine the situation (or the story) to find a positive outcome.
 
+## A choice
 Being optimistic is a choice. An optimist in action looks for a reframing of any adverse situations. This can happen immediately, but more often than not this requires a heavy dose of introspection and soul searching.
 
 As stated by [@theStoicEmperor](https://twitter.com/TheStoicEmperor):
 
 {{< figure src="/images/2023/06/CleanShot-2023-06-03-at-09.50.39@2x.png" >}}
 
+## More on this blog
+
+* [Psychology]({{< tagref "Psychology" >}})
+
 ## Personal challenge and key takeaway: 
+
 - **Today**, please try to look at at least a negative situation and look for a **positive outcome**.
 
-{{% feedback-en %}}
+{{< feedback-en >}}

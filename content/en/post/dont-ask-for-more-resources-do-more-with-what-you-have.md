@@ -9,6 +9,7 @@ title = "Don’t Ask For More Resources: Do More With What You Have!"
 
 +++
 
+## Introduction
 {{< figure src="/images/max/800/1-nnkyesyszwrxz9i_op0yvg.jpg" caption="Do more with less from [Black Mouse Design](https://blackmousedesign.com.au/)" >}}
 
 Instead of asking for more, focus on helping your team succeed. Ensure you align your goals with the team’s current capacity: this is the only way for you to lead the team and help each team member grow.
@@ -42,7 +43,7 @@ Only once you will have a proven track record will you be trusted with additiona
 
 Convinced? Please watch {{< youtube id="bsA8Gw_1KAg" caption="Achieving Extraordinary Results with Ordinary People by Marty Cagan" >}}
 
-### Thanks
+## Thanks
 Thanks a lot to [Cliff des Ligneris](https://medium.com/u/362e2fccaee7) & [Nicolas Lupien](https://medium.com/u/ca4d76503477) & [Ramya Srinivasan](https://medium.com/u/80d61a6661cb) for proofreading & super valuable feedback.
 
-{{% feedback-en %}}
+{{< feedback-en >}}
