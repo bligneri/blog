@@ -43,6 +43,8 @@ languages:
           pageRef: /service
         - name: Me contacter
           pageRef: /contact
+        - name: Recherche
+          pageRef: /search
   en:
     contentDir: content/en
     disabled: false
@@ -59,3 +61,5 @@ languages:
           pageRef: /service
         - name: Contact me 
           pageRef: /contact
+        - name: Search
+          pageRef: /search
