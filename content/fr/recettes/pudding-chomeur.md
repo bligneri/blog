@@ -23,7 +23,7 @@ description: ""
 - 1.5 tasse de farine
 - 2 cuiller à thé de poudre à pâte (levure chimique)
 - 1/4 tasse d'huile végétale 
-- 3/4 tasse de sucre 
+- 1/3 tasse de sucre 
 - 2/3 tasse de lait de coco
 - 1 cuiller à thé de vinaigre de vin
 - 1 cuiller à thé de vanille
