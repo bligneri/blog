@@ -2,6 +2,7 @@
 title: "Dont Give Us MVPs We Want MJPs Minimally Enjoyable Products an Analysis"
 date: 2020-05-01T07:25:40-04:00
 tags: ["Product Management", "Joy"]
+aliases: "/dont-give-us-mvps-we-want-mjps-minimally-enjoyable-products-an-analysis"
 featured_image: ""
 description: ""
 ---
