@@ -1,0 +1,125 @@
+
+
+<script src="https://cdn.anychart.com/releases/8.9.0/js/anychart-core.min.js"></script>
+<script src="https://cdn.anychart.com/releases/8.9.0/js/anychart-venn.min.js"></script>
+<script src="https://cdn.anychart.com/releases/8.9.0/themes/pastel.min.js"></script>
+<div id="container" style="width: 800px; height: 800px;">
+<script>
+    anychart.onDocumentReady(function () {
+      // set chart theme
+      anychart.theme('pastel');
+
+      var data = [
+        {
+          x: 'A',
+          value: 100,
+          name: 'PRODUCT \n Can be quickly made',
+          tooltipTitle: 'Let\'s ship it as fast as possible!',
+          normal: {fill: "#8ecafb 0.7"},
+          hovered: {fill: "#8ecafb 1"},
+          selected: {fill: "#8ecafb 1"}
+        },
+        {
+          x: 'B',
+          value: 100,
+          name: 'Engineering \n Tech debt is a myth!',
+          tooltipTitle: 'OK, let\'s iterate\n as fast as we can!',
+          normal: {fill: "#ffeaa6 0.7"},
+          hovered: {fill: "#ffeaa6 1"},
+          selected: {fill: "#ffeaa6 1"}
+        },
+        {
+          x: 'C',
+          value: 100,
+          name: 'UX \n Design systems are easy to build!',
+          tooltipTitle: 'We will figure it out \n once we have enough users!',
+          normal: {fill: "#ee957f 0.7"},
+          hovered: {fill: "#ee957f 1"},
+          selected: {fill: "#ee957f 1"}
+        },
+        {
+          x: 'D',
+          value: 100,
+          name: 'Marketing \n Make it and they will come ',
+          tooltipTitle: 'No plan for monetication \n it will not impact the product! ',
+          normal: {fill: "#ee957f 0.7"},
+          hovered: {fill: "#ee957f 1"},
+          selected: {fill: "#ee957f 1"}
+        },
+        {x: ['A','B'], value: 30, name: ""},
+        {x: ['A','C'], value: 30, name: ""},
+        {x: ['A','D'], value: 30, name: ""},
+        {x: ['B','C'], value: 30, name: ""},
+        {x: ['B','D'], value: 30, name: ""},
+        {x: ['A','B'], value: 30 ,name: ""},
+        {
+          x: ['A', 'B', 'C', 'D'],
+          value: 100,
+          name: 'The Brown \n Compromise',
+          tooltipTitle: 'The Brown Compromise',
+          tooltipDesc: 'When we take the average of all decisions',
+          label: {enabled:true, fontStyle: 'normal'},
+          normal: {fill: "#2a0f01 0.9"},
+          hovered: {fill: "#2a0f01 1"},
+          selected: {fill: "#2a0f01 1"},
+          hatchFill: {
+            type:"percent40",
+            color: "#5f6b7d"
+          }
+        }
+      ];
+
+      // create venn diagram
+      var chart = anychart.venn(data);
+
+      // set chart title
+      chart
+        .title()
+        .enabled(true)
+        .fontFamily('Roboto, sans-serif')
+        .fontSize(24)
+        .padding({ bottom: 30 })
+        .text('Lack of debate and accountability causes the Brown Compromise');
+
+      // set chart stroke
+      chart.stroke('1 #fff');
+
+      // set labels settings
+      chart
+        .labels()
+        .fontSize(16)
+        .fontColor('#5e6469')
+        .hAlign("center")
+        .vAlign("center")
+        .fontFamily('Roboto, sans-serif')
+        .fontWeight('500')
+        .format('{%Name}');
+
+      // set intersections labels settings
+      chart
+        .intersections()
+        .labels()
+        .fontStyle('italic')
+        .fontColor('#fff')
+        .format('{%Name}');
+
+      // disable legend
+      chart.legend(false);
+
+      // set tooltip settings
+      chart
+        .tooltip()
+        .titleFormat('{%tooltipTitle}')
+        .format("{%tooltipDesc}")
+        .background().fill("#000 0.5");
+
+      // set container id for the chart
+      chart.container('container');
+
+      // initiate chart drawing
+      chart.draw();
+    });
+
+    </script>
+</div>
+
