@@ -7,6 +7,9 @@ canonifyurls = true
 enableInlineShortcodes = true
 googleAnalytics = "G-FPMF9WJKFN"
 
+#[markup.goldmark.renderer]
+#    unsafe = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
