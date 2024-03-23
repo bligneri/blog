@@ -1,7 +1,7 @@
 ---
 title: "Wordpress Magento Drupal Choisir Un Cms Pour Le Web Ou Le E Commerce Axial"
 date: 2018-04-13T07:51:15-04:00
-aliases: "/wordpress-magento-drupal-choisir-un-cms-pour-le-web-ou-le-e-commerce-axial"
+aliases: ["/wordpress-magento-drupal-choisir-un-cms-pour-le-web-ou-le-e-commerce-axial-5c58c4878f8d"]
 tags: ["Wordpress", "CMS"]
 featured_image: 
 description: " Que vous publiiez sur le web du contenu d’intérêt pour vos lecteurs ou que vous vendiez des produits ou des services en ligne, il y a fort à parier que vous avez songé ou que vous songiez à utiliser un système de gestion de contenu. Voici quelques conseils pour vous orienter dans l’univers des CMS (ex. WordPress, Drupal, Magento, Shopify) et pour choisir le CMS qui vous aidera à diffuser du contenu, à bloguer ou à faire du e-commerce."
