@@ -1,8 +1,8 @@
 
 SRCDIR := d2_schemas
 OUTDIR := static/schemas
-
-FLAG := -d 
+FLAG := -d  --layout=elk 
+JOBS ?= 4
 
 # Define input and output files
 INPUT := $(wildcard $(SRCDIR)/*.d2)
@@ -23,3 +23,6 @@ clean:
 # Declare 'clean' and 'diagrams' as phony targets
 .PHONY: clean diagrams
 
+# Allow users to specify the number of parallel jobs
+.DEFAULT_GOAL := diagrams
+diagrams: MAKEFLAGS += --jobs=$(JOBS)
