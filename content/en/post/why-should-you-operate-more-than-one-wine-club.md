@@ -2,6 +2,7 @@
 date = 2019-12-11T07:27:38Z
 description = ""
 draft = false
+aliases = "/why-should-you-operate-more-than-one-wine-club"
 slug = "why-should-you-operate-more-than-one-wine-club"
 summary = "Wine clubs are part of the Direct to Consumer (DtC) trend. They allow the winemaker to send large amounts of wine to a selected group of…"
 tags = ["Wine", "DTC", "Wine Club"]

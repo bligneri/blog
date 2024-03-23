@@ -5,6 +5,7 @@ description = ""
 draft = false
 featured_image = "/images/max/800/1-pbghdh0mm1iagnhuzzoiqq.jpg"
 slug = "book-review-sense-respond"
+aliases = "/book-review-sense-respond"
 summary = "A great book for knowledge workers. This is a map to help you navigate in our increasingly digital world.\n\nSense and respond, product management, teal organizations, reinventing organizations"
 tags = ["Books", "Agility"]
 title = "📖 Book review: Sense & Respond"

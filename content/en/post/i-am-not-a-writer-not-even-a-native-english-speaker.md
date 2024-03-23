@@ -3,6 +3,7 @@ date = 2020-01-09T19:01:01Z
 description = ""
 draft = false
 featured_image = "/images/max/800/1-x7smeithmrcevhe0etifag-2x.jpg"
+aliases  = "/i-am-not-a-writer-not-even-a-native-english-speaker"
 slug = "i-am-not-a-writer-not-even-a-native-english-speaker"
 summary = "How I published 16 articles in 2019 and enjoyed the experience."
 tags = ["Essay"]

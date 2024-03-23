@@ -3,6 +3,7 @@ date = 2020-01-17T10:10:01Z
 description = ""
 draft = false
 featured_image = "/images/max/800/1-pudyupwucaq1i5pcjeexlg-2x.jpg"
+aliases = "/the-abuse-of-tech-debt"
 slug = "the-abuse-of-tech-debt"
 summary = "There is nothing unique about tech debt: just change. A tech debt classification and initial root-cause analysis."
 tags = ["Essay", "Tech debt"]

@@ -3,7 +3,7 @@ date = 2023-06-08T22:20:57Z
 description = ""
 draft = false
 featured_image = "/images/2023/06/74464F3F-72C8-4DC8-BFBD-4E93BE40227E_1_105_c-1.jpeg"
-slug = "yesterday-i-was-fired"
+aliases = "/yesterday-i-was-fired"
 tags = ["Happiness", "Work", "Essay"]
 title = "Yesterday I was fired 🔥"
 

@@ -2,7 +2,7 @@
 date = 2023-06-03T22:00:11Z
 description = ""
 draft = true
-slug = "untitled"
+slug = "the-courage-to-be-disliked"
 title = "Ideas - Adlerian Psychology, addiction, possession // All problems are interpersonal relationship problems"
 
 +++

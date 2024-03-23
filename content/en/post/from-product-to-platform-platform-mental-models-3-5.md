@@ -4,6 +4,7 @@ description = ""
 draft = false
 featured_image = "/images/max/800/1-dqhi0lynno_d7gd6ipvyrw.jpg"
 slug = "from-product-to-platform-platform-mental-models-3-5"
+slug = "/from-product-to-platform-platform-mental-models-3-5"
 summary = "The journey of a Product manager: from product to platform.\n\nUseful mental models to better understand platforms: Superset of knowledge, Ecosystem, Infinite Game, Compounded interest"
 tags = ["Product Manager", "Platform"]
 title = "From Product to Platform — Platform Mental Models (3/5)"

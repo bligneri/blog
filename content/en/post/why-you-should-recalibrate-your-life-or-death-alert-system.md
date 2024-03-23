@@ -3,6 +3,7 @@ date = 2023-06-01T05:09:33Z
 description = ""
 draft = true
 featured_image = "/images/max/800/1-dgqvh_lf3jx2nkpvmgouqw.png"
+aliases = "/why-you-should-recalibrate-your-life-or-death-alert-system"
 slug = "why-you-should-recalibrate-your-life-or-death-alert-system"
 summary = "In a postmodern world, fight-or-flight response is causing you more harm than good!"
 tags = ["Psychology", "How-to", "Optimist"]

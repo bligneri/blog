@@ -1,6 +1,7 @@
 ---
 title: "Resume"
 date: 2024-03-18T14:01:19-04:00
+aliases: /about
 slug: resume
 type: page
 tags: []

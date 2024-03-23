@@ -3,6 +3,7 @@ date = 2021-06-23T11:49:49Z
 description = ""
 draft = false
 featured_image = "/images/max/2560/1-yfgjarntjbwdqicak7x4zq.jpg"
+aliases = "/nudge-why-product-managers-should-become-proficient-choice-architects"
 slug = "nudge-why-product-managers-should-become-proficient-choice-architects"
 summary = "Designing a great choice architecture should be one of your core responsibilities as a product manager."
 tags = ["Book", "Choice"]

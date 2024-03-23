@@ -4,6 +4,7 @@ description = ""
 draft = false
 featured_image = "/images/max/800/1-s9paqi7p7-qwolgbb2ylna.jpg"
 slug = "from-product-to-platform-increased-complexity-2-5"
+aliases = "/from-product-to-platform-increased-complexity-2-5"
 summary = "Journey of a Product manager, from product to platform: complexity!\n\nPlatforms are more complex than products. This post highlight the specific domains where platforms are more complex than products."
 tags = ["Product Manager", "Platform"]
 title = "From Product to Platform — Increased Complexity (2/5)"

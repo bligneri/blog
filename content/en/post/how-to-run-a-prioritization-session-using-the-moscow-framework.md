@@ -3,6 +3,7 @@ date = 2019-12-19T09:01:02Z
 description = ""
 draft = false
 featured_image = "/images/max/800/1-ihb2ej7tl-j0itdjdjn7la-2x.jpg"
+aliases = "/how-to-run-a-prioritization-session-using-the-moscow-framework"
 slug = "how-to-run-a-prioritization-session-using-the-moscow-framework"
 summary = "10x ruthless prioritization\n\nA prioritization method to rapidly build consensus on the scope and share with your team and any stakeholder."
 tags = ["How-to", "Product Manager", "Prioritization"]

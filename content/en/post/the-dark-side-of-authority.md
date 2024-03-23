@@ -3,6 +3,7 @@ date = 2021-01-22T20:34:04Z
 description = ""
 draft = false
 featured_image = "/images/max/2560/0-w_esgqmeeppqohn5.jpg"
+aliases = "/the-dark-side-of-authority"
 slug = "the-dark-side-of-authority"
 summary = "Boost your success and team growth by … not deciding!"
 tags = ["Essay", "Authority", "Leadership"]

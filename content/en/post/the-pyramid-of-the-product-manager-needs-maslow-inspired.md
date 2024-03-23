@@ -2,6 +2,7 @@
 description = ""
 draft = false
 featured_image = "/images/max/800/1-oyzx1bhe1jzu3vglrbo4nq.png"
+aliases = "/the-pyramid-of-the-product-manager-needs-maslow-inspired"
 slug = "the-pyramid-of-the-product-manager-needs-maslow-inspired"
 summary = "A useful and visual mental model that represent the product management role in relation to its environment."
 tags = ["Product Manager", "Leadership", "Essay", "Mental Model"]

@@ -1,5 +1,6 @@
 +++
 date = 2019-12-27T05:53:53Z
+aliases = "/how-reframing-negative-experiences-can-make-you-happier"
 description = ""
 draft = false
 featured_image = "/images/max/800/1-wly7ecrymrcz1xn_y3gqiw.jpg"
