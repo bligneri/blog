@@ -1,5 +1,5 @@
 
-SRCDIR := d2_schemas
+SRCDIR := schemas
 OUTDIR := static/schemas
 FLAG := -d  --layout=elk 
 JOBS ?= 4
