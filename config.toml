@@ -5,6 +5,7 @@ theme = ["ananke", "hugo-embed-pdf-shortcode"]
 pagination = 12
 canonifyurls = true
 enableInlineShortcodes = true
+googleAnalytics = "G-FPMF9WJKFN"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
