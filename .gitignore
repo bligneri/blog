@@ -6,4 +6,3 @@ public/*
 resources/_gen/*
 *.zip
 node_modules
-static/schemas
