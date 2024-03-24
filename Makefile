@@ -1,7 +1,7 @@
 
 SRCDIR := schemas
 OUTDIR := static/schemas
-FLAG := -d  --layout=elk 
+FLAG := -s --pad 10 --layout elk 
 JOBS ?= 4
 
 # Define input and output files
@@ -33,7 +33,7 @@ post-fr:
 
 # Build the drafts, enable Git data, disable the cache
 hugo:
-	hugo server --enableGitInfo --disableFastRender -D
+	hugo server --enableGitInfo --disableFastRender -D 
 
 # Rule to generate SVG file
 $(OUTDIR)/%.svg: $(SRCDIR)/%.d2
