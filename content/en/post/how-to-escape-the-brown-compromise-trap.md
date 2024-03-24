@@ -1,7 +1,7 @@
 ---
 title: "How to Escape the Brown Compromise Trap"
 date: 2024-03-23T20:57:47-04:00
-draft: true
+#draft: true
 tags: ["Product Management", "How-to", "Leadership"]
 featured_image: ""
 description: ""
