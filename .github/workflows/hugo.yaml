@@ -47,10 +47,11 @@ jobs:
         run: go install oss.terrastruct.com/d2@latest
 
       - name:  Run make to generate files
-        runs: |
-          make 
+        run: make 
+
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
