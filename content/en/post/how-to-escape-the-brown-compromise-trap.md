@@ -20,10 +20,10 @@ If you don’t apply any other criteria and respect everybody’s preference, yo
 This type of decision-making also happens in a business context, especially in the product and design world. When you share a design document of any type (i.e: wireframe, Figma, design doc, product brief, PRD, press release/FAQ, etc.) … you will receive feedback. The feedback is used to decide either a go/no go decision or some more nuanced decision (scope, architecture, etc.).
 
 Usually, given four stakeholders, you will most certainly receive different types of feedback
-I don’t care, but when can you ship it [I want your team to work on another project that has not yet been prioritized!]
-I will never use this [this is terrible, don’t ship it!]
-Can you also do X and Y while revisiting this flow?
-I hate it you should do B instead.
+1. I don’t care, but when can you ship it [I want your team to work on another project that has not yet been prioritized!]
+1. I will never use this [this is terrible, don’t ship it!]
+1. Can you also do X and Y while revisiting this flow?
+1. I hate it you should do B instead.
 
 The feedback comes from various folks you must please, including stakeholders, direct or indirect reports, peers, etc. And quite often, the main strategy to get this initiative/project moving is the brown compromise: the teams deals with all these influences by trying to please everyone. For instance, given the feedback above, the team will incorporate into their `A` project a bit of X, a bit of Y and also more B. Doing this will lead to a `brown compromise` that does not meet anyone’s need and is complex, hard to explain, super expensive to build, support and maintain. The business impact will be low (if any).
 
@@ -66,15 +66,16 @@ Here are three antidotes to the brown compromise behaviour. I think they are all
 Find a single-threaded owner! 
 As we discussed, group thinking is dangerous, especially when associated with our desire to please authority and others. Important decisions should have a well-identified single-threaded owner, not a group. 
 
-**Who should own a decision? **
+
+**Who should own a decision?**
 
 Usually, the owner has a set of clear characteristics: more context, more skills in this area and more experience. She is also dedicated to this project/decision (ideally working full-time in this domain and this domain only!). She is committed to this project/decision and will live with the consequences of the decision. The success of the decision owner will directly impact her impact review. The owner is the best positioned to apply the next two brown compromise remedies.
 
-** Virtual circle
+{{< figure src="/schemas/ownership-vicious-circle.svg" >}}
 
 On the contrary, once you have identified a single-threaded owner for a specific problem space/area, you can create a positive reinforcement loop.
 
-** Vicious circle
+{{< figure src="/schemas/ownership-virtuous-circle.svg" >}}
 
 
 ### Define success
