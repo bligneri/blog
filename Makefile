@@ -8,6 +8,10 @@ JOBS ?= 4
 INPUT := $(wildcard $(SRCDIR)/*.d2)
 OUTPUT := $(patsubst $(SRCDIR)/%.d2,$(OUTDIR)/%.svg,$(INPUT))
 
+
+hugo:
+	hugo server --enableGitInfo --disableFastRender -D
+
 # Rule to generate SVG file
 $(OUTDIR)/%.svg: $(SRCDIR)/%.d2
 	mkdir -p $(OUTDIR)
@@ -21,7 +25,7 @@ clean:
 	rm -rf $(OUTDIR)
 
 # Declare 'clean' and 'diagrams' as phony targets
-.PHONY: clean diagrams
+.PHONY: clean diagrams hugo
 
 # Allow users to specify the number of parallel jobs
 .DEFAULT_GOAL := diagrams
