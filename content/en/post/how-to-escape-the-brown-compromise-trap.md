@@ -88,11 +88,11 @@ Share your success criteria and debate + align with the authority figures until 
 
 When success is not defined, unclear or partial (team only, stakeholder only, etc.), it causes more and more brown compromises to be made. Everything becomes less and less clear as well as less measurable. It, in turn, removes the ability for the team to learn and improve their success definition skills.
 
-** Vicious circle
+{{< figure src="/schemas/define-success-vicious-circle.svg" >}}
 
 On the contrary, you can create a positive reinforcement loop when you define clearly success criteria for a decision that will lead to more learnings and less brown compromises:
 
-** Virtuous circle
+{{< figure src="/schemas/define-success-virtuous-circle.svg" >}}
 
 ### Breath: create time for yourself and for the team !
 
@@ -106,11 +106,11 @@ Use delay to create a breathing space for the team. Manage expectations by askin
 
 Without time to process the feedback, you will have a brown compromise, a team that feels stressed, reactive and more and more disengaged.
 
-** Vicious circle
+{{< figure src="/schemas/breath-vicious-circle.svg" >}}
 
 On the other hand, for hard and difficult decisions, with a realistic timeline, you will be able to find an owner, define success criteria, find relevant data, align internally and with stakeholders to make a great decision while leveraging the stress to create a positive momentum for the team. 
 
-** Virtuous circle
+{{< figure src="/schemas/breath-virtuous-circle.svg" >}}
 
 Proactivity leads to empowerment, reactivity leads to disengagement.
 
