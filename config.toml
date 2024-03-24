@@ -16,6 +16,9 @@ googleAnalytics = "G-FPMF9WJKFN"
 [params]
   show_reading_time = true
 
+[services.disqus]
+  shortname = 'radicaloptimist-org'
+
 [[params.ananke_socials]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/benoitdesligneris/"
