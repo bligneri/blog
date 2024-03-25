@@ -44,14 +44,13 @@ dev:
 
 # Build the static web page before shipping to codeberg
 html: diagrams
-			# For maximum backward compatibility with Hugo modules
-      HUGO_ENVIRONMENT: production
-      HUGO_ENV: production
-			hugo \
+	# For maximum backward compatibility with Hugo modules
+	HUGO_ENVIRONMENT="production"
+	hugo \
         --gc \
         --minify \
-				--baseURL "https://bendl.codeberg.page/"
-			npx pagefind --site public
+	--baseURL "https://bendl.codeberg.page/"
+	npx pagefind --site public
 
 _deploy-pages-repo:
 	git -C $(DIR_OUTPUT) add .
@@ -73,7 +72,7 @@ clean:
 	rm -rf $(SCHEMA_OUTDIR)
 
 # Declare 'clean' and 'diagrams' as phony targets
-.PHONY: clean diagrams dev build default post-en post-fr
+.PHONY: clean diagrams dev build default post-en post-fr html
 
 # Allow users to specify the number of parallel jobs
 .DEFAULT_GOAL := default
