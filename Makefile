@@ -17,7 +17,8 @@ default:
 	@echo "  make post-en - Create a new post in English"
 	@echo "  make post-fr - Create a new post in French"
 	@echo "  make html - build production html in /public"
-	@echo "  make dev - start a local webserver with the draft content on localhost:1313"
+	@echo "  make dev - start a local webserver without the draft content on localhost:1313"
+	@echo "  make ddev - start a local webserver with the draft content on localhost:1313"
 	@echo "  make diagrams - build d2 diagrams in static/schemas"
 	@echo "  make clean - delete all the schema (to regenerate them)"
 	@echo "  make deploy - build schemas, html and deploy on codeberg"
@@ -40,7 +41,11 @@ post-fr:
 
 # Build the drafts, enable Git data, disable the cache
 dev:
-	hugo server --enableGitInfo --disableFastRender -D 
+	hugo server --enableGitInfo --disableFastRender
+
+# Build the drafts, enable Git data, disable the cache
+ddev:
+	hugo server --enableGitInfo --disableFastRender -D
 
 # Build the static web page before shipping to codeberg
 html: diagrams
