@@ -1,12 +1,13 @@
 
-SRCDIR := schemas
-OUTDIR := static/schemas
-FLAG := -s --pad 10 --layout elk 
+# For Schema generation with d2
+SCHEMA_SRCDIR := schemas
+SCHEMA_OUTDIR := static/schema
+SCHEMA_FLAG := -s --pad 10 --layout elk 
 JOBS ?= 4
 
 # Define input and output files
-INPUT := $(wildcard $(SRCDIR)/*.d2)
-OUTPUT := $(patsubst $(SRCDIR)/%.d2,$(OUTDIR)/%.svg,$(INPUT))
+SCHEMA_INPUT := $(wildcard $(SCHEMA_SRCDIR)/*.d2
+SCHEMA_OUTPUT := $(patsubst $(SCHEMA_SRCDIR)/%.d2,$(SCHEMA_OUTDIR)/%.svg,$(SCHEMA_INPUT))
 
 
 # Information about what this Makefile is doing
@@ -32,24 +33,30 @@ post-fr:
 	hugo new content/fr/post/$$POST_NAME.md
 
 # Build the drafts, enable Git data, disable the cache
-hugo:
+dev:
 	hugo server --enableGitInfo --disableFastRender -D 
 
+# Build the static web page before shipping to codeberg
+build: diagrams
+	hugo --enableGitInfo 
+
+
+
 # Rule to generate SVG file
-$(OUTDIR)/%.svg: $(SRCDIR)/%.d2
-	mkdir -p $(OUTDIR)
-	d2 $(FLAG) $< $@
+$(SCHEMA_OUTDIR)/%.svg: $(SCHEMA_SRCDIR)/%.d2
+	mkdir -p $(SCHEMA_OUTDIR)
+	d2 $(SCHEMA_FLAG) $< $@
 
 # Rule to generate all SVG files
-diagrams: $(OUTPUT)
+diagrams: $(SCHEMA_OUTPUT)
 
 # Rule to clean generated files
 clean:
-	rm -rf $(OUTDIR)
+	rm -rf $(SCHEMA_OUTDIR)
 
 # Declare 'clean' and 'diagrams' as phony targets
-.PHONY: clean diagrams hugo
+.PHONY: clean diagrams dev build default post-en post-fr
 
 # Allow users to specify the number of parallel jobs
 .DEFAULT_GOAL := diagrams
-diagrams: MAKEFLAGS += --jobs=$(JOBS)
+diagrams: MAKESCHEMA_FLAGS += --jobs=$(JOBS)
