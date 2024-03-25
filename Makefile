@@ -44,7 +44,14 @@ dev:
 
 # Build the static web page before shipping to codeberg
 html: diagrams
-	hugo --enableGitInfo 
+			# For maximum backward compatibility with Hugo modules
+      HUGO_ENVIRONMENT: production
+      HUGO_ENV: production
+			hugo \
+        --gc \
+        --minify \
+				--baseURL "https://bendl.codeberg.page/"
+			npx pagefind --site public
 
 _deploy-pages-repo:
 	git -C $(DIR_OUTPUT) add .

@@ -1,4 +1,4 @@
-baseURL = "./"
+baseURL = "/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme = ["ananke", "hugo-embed-pdf-shortcode"]
