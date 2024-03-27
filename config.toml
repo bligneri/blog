@@ -15,6 +15,7 @@ googleAnalytics = "G-FPMF9WJKFN"
 
 [params]
   show_reading_time = true
+  site_logo = "squared-logo.png"
 
 [services.disqus]
   shortname = 'radicaloptimist-org'
